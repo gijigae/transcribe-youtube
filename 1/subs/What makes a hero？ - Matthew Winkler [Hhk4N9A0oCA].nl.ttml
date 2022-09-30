@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="nl" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:fontWeight="bold"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:07.000" style="s2">Vertaald door: Desiree Kramer<br />Nagekeken door: Valérie Boor</p>
+<p begin="00:00:14.185" end="00:00:15.435" style="s2">Waarin lijken Harry Potter,</p>
+<p begin="00:00:15.435" end="00:00:16.561" style="s2">Katniss Everdeen</p>
+<p begin="00:00:16.561" end="00:00:17.578" style="s2">en Frodo</p>
+<p begin="00:00:17.578" end="00:00:21.621" style="s2">op de helden uit de mythologie?</p>
+<p begin="00:00:21.621" end="00:00:25.609" style="s2">Als ik zou zeggen dat het allemaal <br />variaties zijn op dezelfde held,</p>
+<p begin="00:00:25.609" end="00:00:27.401" style="s2">geloof je dat?</p>
+<p begin="00:00:27.401" end="00:00:28.982" style="s2">Joseph Campbell wel.</p>
+<p begin="00:00:28.982" end="00:00:31.044" style="s2">Hij bestudeerde mythen van over de hele wereld</p>
+<p begin="00:00:31.044" end="00:00:32.537" style="s2">en publiceerde een boek:</p>
+<p begin="00:00:32.537" end="00:00:34.658" style="s2">&#39;De held met de duizend gezichten&#39;.</p>
+<p begin="00:00:34.658" end="00:00:36.320" style="s2">Dat vertelt tientallen verhalen na</p>
+<p begin="00:00:36.320" end="00:00:39.079" style="s2">en legt uit hoe elk verhaal de monomythe,</p>
+<p begin="00:00:39.079" end="00:00:40.904" style="s2">of de reis van de held, weergeeft.</p>
+<p begin="00:00:42.120" end="00:00:44.750" style="s2">Wat is de &#39;reis van de held&#39;?</p>
+<p begin="00:00:44.750" end="00:00:46.850" style="s2">Zie het als een cyclus.</p>
+<p begin="00:00:46.850" end="00:00:50.537" style="s2">De reis begint en eindigt <br />in de gewone wereld van de held,</p>
+<p begin="00:00:50.537" end="00:00:55.220" style="s2">maar de avontuurlijke zoektocht speelt zich af <br />in een onbekende, bijzondere wereld.</p>
+<p begin="00:00:55.220" end="00:00:57.602" style="s2">Onderweg zijn er belangrijke gebeurtenissen.</p>
+<p begin="00:00:57.602" end="00:01:00.213" style="s2">Denk aan je favoriete boek of film.</p>
+<p begin="00:01:00.213" end="00:01:02.725" style="s2">Volgt het dit patroon?</p>
+<p begin="00:01:03.464" end="00:01:05.950" style="s2"><span style="s3">Status-quo:</span><br />daar beginnen we.</p>
+<p begin="00:01:06.751" end="00:01:09.555" style="s2">1 uur:   <span style="s3">De oproep tot avontuur</span></p>
+<p begin="00:01:09.555" end="00:01:12.105" style="s2">De held ontvangt een mysterieus bericht,</p>
+<p begin="00:01:12.105" end="00:01:13.187" style="s2">een uitnodiging? Een uitdaging?</p>
+<p begin="00:01:13.187" end="00:01:14.572" style="s2">een uitnodiging? Een uitdaging?</p>
+<p begin="00:01:14.572" end="00:01:16.421" style="s2">2 uur:   <span style="s3">De assistentie</span></p>
+<p begin="00:01:16.421" end="00:01:17.840" style="s2">De held heeft hulp nodig,</p>
+<p begin="00:01:17.840" end="00:01:21.122" style="s2">waarschijnlijk van een ouder, wijzer persoon.</p>
+<p begin="00:01:21.122" end="00:01:22.706" style="s2">3 uur:   <span style="s3">Het vertrek</span></p>
+<p begin="00:01:22.706" end="00:01:26.087" style="s2">De held stapt over de drempel,<br />uit zijn normale, veilige thuis</p>
+<p begin="00:01:26.087" end="00:01:29.078" style="s2">en betreedt de bijzondere wereld en het avontuur.</p>
+<p begin="00:01:29.078" end="00:01:30.895" style="s2">We zijn niet langer in Kansas.</p>
+<p begin="00:01:30.895" end="00:01:32.799" style="s2">4 uur:   <span style="s3">De beproevingen</span></p>
+<p begin="00:01:32.799" end="00:01:34.048" style="s2">Held zijn is hard werken:</p>
+<p begin="00:01:34.048" end="00:01:35.355" style="s2">onze held lost een raadsel op;</p>
+<p begin="00:01:35.355" end="00:01:36.598" style="s2">doodt een monster;</p>
+<p begin="00:01:36.598" end="00:01:38.433" style="s2">ontsnapt uit een val.</p>
+<p begin="00:01:39.296" end="00:01:41.548" style="s2">5 uur:   <span style="s3">De toenadering</span></p>
+<p begin="00:01:41.548" end="00:01:43.848" style="s2">De held wordt geconfronteerd <br />met de grootste beproeving, zijn grootste angst.</p>
+<p begin="00:01:43.848" end="00:01:45.871" style="s2">De held wordt geconfronteerd <br />met de grootste beproeving, zijn grootste angst.</p>
+<p begin="00:01:48.318" end="00:01:50.843" style="s2">6 uur:   <span style="s3">Crisis</span></p>
+<p begin="00:01:50.843" end="00:01:52.801" style="s2">Dit is het donkerste uur van de held.</p>
+<p begin="00:01:52.801" end="00:01:55.674" style="s2">Hij komt de dood onder ogen <br />en gaat mogelijk zelfs dood,</p>
+<p begin="00:01:55.674" end="00:01:57.456" style="s2">om vervolgens herboren te worden.</p>
+<p begin="00:01:58.764" end="00:02:00.980" style="s2">7 uur:   <span style="s3">De schat</span></p>
+<p begin="00:02:02.196" end="00:02:05.866" style="s2">Als gevolg eist de held een stukje van de schat,</p>
+<p begin="00:02:05.866" end="00:02:08.251" style="s2">extra erkenning of macht.</p>
+<p begin="00:02:08.251" end="00:02:09.977" style="s2">8 uur:   <span style="s3">Het resultaat</span></p>
+<p begin="00:02:09.977" end="00:02:12.221" style="s2">Dit kan per verhaal variëren.</p>
+<p begin="00:02:12.221" end="00:02:14.416" style="s2">Buigen de monsters voor de held</p>
+<p begin="00:02:14.416" end="00:02:18.347" style="s2">of achtervolgen ze hem <br />als hij die wereld ontvlucht?</p>
+<p begin="00:02:18.347" end="00:02:20.663" style="s2">9 uur:   <span style="s3">De terugkeer</span></p>
+<p begin="00:02:20.663" end="00:02:25.120" style="s2">Na al deze avonturen keert de held terug <br />naar zijn gewone wereld.</p>
+<p begin="00:02:25.120" end="00:02:27.169" style="s2">10 uur:   <span style="s3">Nieuw leven</span></p>
+<p begin="00:02:27.169" end="00:02:29.478" style="s2">Deze zoektocht heeft de held veranderd;</p>
+<p begin="00:02:29.478" end="00:02:32.318" style="s2">hij is zijn oude leven ontgroeid.</p>
+<p begin="00:02:32.318" end="00:02:34.620" style="s2">11 uur:   <span style="s3">De oplossing</span></p>
+<p begin="00:02:34.620" end="00:02:38.284" style="s2">De verstrikte verhaallijnen worden afgewikkeld.</p>
+<p begin="00:02:38.284" end="00:02:40.593" style="s2">12 uur:   <span style="s3">Status-quo,</span></p>
+<p begin="00:02:40.593" end="00:02:42.780" style="s2">maar opgewaardeerd naar een nieuw niveau.</p>
+<p begin="00:02:42.780" end="00:02:45.784" style="s2">Niets is hetzelfde als je eenmaal een held bent.</p>
+<p begin="00:02:45.784" end="00:02:47.469" style="s2">Veel populaire boeken en films</p>
+<p begin="00:02:47.469" end="00:02:50.177" style="s2">volgen deze oude formule vrij nauwkeurig.</p>
+<p begin="00:02:50.177" end="00:02:53.911" style="s2">Laten we eens kijken in welke mate<br />&#39;De Hongerspelen&#39; aan dit patroon voldoet.</p>
+<p begin="00:02:53.911" end="00:02:55.968" style="s2">Wanneer hoort Katniss Everdeen <br />haar oproep tot avontuur</p>
+<p begin="00:02:55.968" end="00:02:57.926" style="s2">die het verhaal op gang brengt?</p>
+<p begin="00:02:57.926" end="00:03:01.459" style="s2">Als haar zusje wordt uitgeloot.</p>
+<p begin="00:03:01.459" end="00:03:03.098" style="s2">Is er assistentie?</p>
+<p begin="00:03:03.098" end="00:03:05.462" style="s2">Wordt zij geholpen op haar avontuur?</p>
+<p begin="00:03:05.462" end="00:03:06.735" style="s2">Door Haymitch.</p>
+<p begin="00:03:06.735" end="00:03:08.307" style="s2">Hoe zit het met het vertrek?</p>
+<p begin="00:03:08.307" end="00:03:10.428" style="s2">Verlaat zij haar gewone leventje?</p>
+<p begin="00:03:10.428" end="00:03:12.645" style="s2">Ze gaat met de trein naar &#39;het Capitool&#39;.</p>
+<p begin="00:03:12.645" end="00:03:14.094" style="s2">Nu begrijp je wat ik bedoel.</p>
+<p begin="00:03:14.094" end="00:03:15.609" style="s2">Wat heb jij gemeen</p>
+<p begin="00:03:15.609" end="00:03:16.546" style="s2">met Harry Potter,</p>
+<p begin="00:03:16.546" end="00:03:17.391" style="s2">Katniss Everdeen</p>
+<p begin="00:03:17.391" end="00:03:18.522" style="s2">en Frodo?</p>
+<p begin="00:03:18.522" end="00:03:21.981" style="s2">Je bent een mens, net als zij.</p>
+<p begin="00:03:21.981" end="00:03:24.897" style="s2">De mythe van de &#39;reis van de held&#39; <br />bestaat in alle culturen</p>
+<p begin="00:03:24.897" end="00:03:26.606" style="s2">en wordt steeds bijgesteld.</p>
+<p begin="00:03:26.606" end="00:03:28.891" style="s2">Want wij mensen bezien onze wereld</p>
+<p begin="00:03:28.892" end="00:03:33.082" style="s2">door symbolische verhalen <br />over onze eigen levens.</p>
+<p begin="00:03:33.082" end="00:03:35.079" style="s2">Je verlaat je comfortzone,</p>
+<p begin="00:03:35.079" end="00:03:37.558" style="s2">krijgt een ervaring die je transformeert,</p>
+<p begin="00:03:37.558" end="00:03:40.459" style="s2">je herstelt en begint opnieuw.</p>
+<p begin="00:03:40.459" end="00:03:43.464" style="s2">Je doodt niet letterlijk draken <br />of vecht met Voldemort,</p>
+<p begin="00:03:43.464" end="00:03:46.026" style="s2">maar je komt problemen tegen<br />die net zo eng zijn.</p>
+<p begin="00:03:46.026" end="00:03:47.243" style="s2">Joseph Campbell zei:</p>
+<p begin="00:03:47.243" end="00:03:52.143" style="s2">&quot;In de grot waar je niet in durft, <br />ligt de schat die je zoekt.&quot;</p>
+<p begin="00:03:52.143" end="00:03:55.111" style="s2">Wat is de symbolische grot waar jij niet in durft?</p>
+<p begin="00:03:55.111" end="00:03:57.522" style="s2">Schooltoneel-auditie?</p>
+<p begin="00:03:57.522" end="00:03:59.266" style="s2">De selectie voor honkbal?</p>
+<p begin="00:03:59.266" end="00:04:00.813" style="s2">De liefde?</p>
+<p begin="00:04:00.813" end="00:04:04.664" style="s2">Let op deze formule in boeken, <br />films en tv-series die je tegenkomt.</p>
+<p begin="00:04:04.664" end="00:04:06.409" style="s2">Je zal het zeker nog eens zien.</p>
+<p begin="00:04:06.409" end="00:04:09.616" style="s2">Wees hiervoor ook ontvankelijk in je eigen leven.</p>
+<p begin="00:04:09.616" end="00:04:12.083" style="s2">Luister naar je oproep tot avontuur.</p>
+<p begin="00:04:12.083" end="00:04:13.665" style="s2">Ga de uitdaging aan.</p>
+<p begin="00:04:13.665" end="00:04:14.936" style="s2">Overwin je angst</p>
+<p begin="00:04:14.936" end="00:04:17.293" style="s2">en eis de schat op die je zoekt.</p>
+<p begin="00:04:17.293" end="00:04:18.593" style="s2">En doe het dan nog een keer.</p>
+<p begin="00:04:18.593" end="00:04:20.439" style="s2">En doe het dan nog een keer.</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="pt-PT" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:07.000" style="s2">Tradutor: Margarida Ferreira<br />Revisora: Isabel Vaz Belchior</p>
+<p begin="00:00:13.988" end="00:00:15.641" style="s2">O que é que Harry Potter,</p>
+<p begin="00:00:15.654" end="00:00:17.577" style="s2">Katniss Everdeen, e Frodo</p>
+<p begin="00:00:17.610" end="00:00:20.874" style="s2">têm em comum com os heróis<br />dos antigos mitos?</p>
+<p begin="00:00:21.627" end="00:00:25.157" style="s2">E se eu vos dissesse que todos eles<br />são variações do mesmo herói?</p>
+<p begin="00:00:25.788" end="00:00:27.253" style="s2">Acreditam nisso?</p>
+<p begin="00:00:27.477" end="00:00:29.272" style="s2">Joseph Campbell acreditava.</p>
+<p begin="00:00:29.324" end="00:00:32.654" style="s2">Estudou mitos de todo o mundo<br />e publicou um livro intitulado</p>
+<p begin="00:00:32.727" end="00:00:34.767" style="s2">&quot;O Herói das Mil Caras&quot;,</p>
+<p begin="00:00:34.838" end="00:00:36.448" style="s2">contando dezenas de histórias</p>
+<p begin="00:00:36.505" end="00:00:39.178" style="s2">e explicando como cada uma delas<br />representa o monomito,</p>
+<p begin="00:00:39.231" end="00:00:41.460" style="s2">ou seja, o percurso do herói.</p>
+<p begin="00:00:42.120" end="00:00:44.487" style="s2">O que é &quot;o percurso do herói&quot;?</p>
+<p begin="00:00:44.680" end="00:00:46.703" style="s2">Pensem nele como um ciclo.</p>
+<p begin="00:00:46.791" end="00:00:50.513" style="s2">O percurso começa e acaba<br />no mundo vulgar do herói,</p>
+<p begin="00:00:50.775" end="00:00:55.250" style="s2">mas a demanda passa<br />por um mundo estranho, especial.</p>
+<p begin="00:00:55.265" end="00:00:57.711" style="s2">Ao longo do caminho,<br />há acontecimentos fundamentais.</p>
+<p begin="00:00:57.783" end="00:01:00.189" style="s2">Pensem no vosso livro<br />ou filme preferido.</p>
+<p begin="00:01:00.365" end="00:01:02.634" style="s2">Não é verdade que segue este padrão?</p>
+<p begin="00:01:03.324" end="00:01:05.954" style="s2">Um &quot;status quo&quot;, é por onde começamos.</p>
+<p begin="00:01:07.148" end="00:01:09.531" style="s2">Uma hora: O chamamento para a aventura.</p>
+<p begin="00:01:09.574" end="00:01:12.223" style="s2">O herói recebe uma mensagem misteriosa.</p>
+<p begin="00:01:12.295" end="00:01:14.292" style="s2">Um convite, um desafio?</p>
+<p begin="00:01:14.572" end="00:01:16.444" style="s2">Duas horas: A ajuda</p>
+<p begin="00:01:16.668" end="00:01:20.864" style="s2">O herói precisa de ajuda, provavelmente<br />de alguém mais velho, mais sábio.</p>
+<p begin="00:01:21.188" end="00:01:22.863" style="s2">Três horas: A partida</p>
+<p begin="00:01:22.953" end="00:01:26.215" style="s2">O herói atravessa o limiar<br />da sua casa normal, segura,</p>
+<p begin="00:01:26.296" end="00:01:29.111" style="s2">e entra no mundo especial<br />e na aventura.</p>
+<p begin="00:01:29.163" end="00:01:31.112" style="s2">Já não estamos no Kansas.</p>
+<p begin="00:01:31.152" end="00:01:32.717" style="s2">Quatro horas: As provas</p>
+<p begin="00:01:32.751" end="00:01:34.362" style="s2">Ser herói é um trabalho difícil.</p>
+<p begin="00:01:34.400" end="00:01:35.969" style="s2">O nosso herói resolve um enigma,</p>
+<p begin="00:01:35.988" end="00:01:37.307" style="s2">chacina um monstro,</p>
+<p begin="00:01:37.331" end="00:01:38.909" style="s2">escapa a uma armadilha.</p>
+<p begin="00:01:39.296" end="00:01:41.381" style="s2">Cinco horas: A abordagem</p>
+<p begin="00:01:41.843" end="00:01:45.687" style="s2">Chega a altura de enfrentar a maior prova,<br />o pior receio do herói.</p>
+<p begin="00:01:46.687" end="00:01:47.858" style="s2">(Rugido)</p>
+<p begin="00:01:48.318" end="00:01:50.122" style="s2">Seis horas: A crise</p>
+<p begin="00:01:50.843" end="00:01:52.891" style="s2">Esta é a hora mais negra do herói.</p>
+<p begin="00:01:52.953" end="00:01:55.907" style="s2">Enfrenta a morte e,<br />possivelmente, até morre,</p>
+<p begin="00:01:55.959" end="00:01:58.189" style="s2">mas depois ressuscita.</p>
+<p begin="00:01:58.764" end="00:02:00.723" style="s2">Sete horas: O tesouro</p>
+<p begin="00:02:02.481" end="00:02:05.936" style="s2">No final, o herói<br />reclama um tesouro qualquer,</p>
+<p begin="00:02:05.988" end="00:02:08.157" style="s2">um reconhecimento ou um poder especial.</p>
+<p begin="00:02:08.251" end="00:02:10.162" style="s2">Oito horas: O resultado</p>
+<p begin="00:02:10.234" end="00:02:12.339" style="s2">Isto pode variar conforme as histórias.</p>
+<p begin="00:02:12.392" end="00:02:14.839" style="s2">Será que os monstros se curvam<br />perante o herói,</p>
+<p begin="00:02:14.868" end="00:02:17.923" style="s2">ou perseguem-no enquanto ele foge<br />daquele mundo especial?</p>
+<p begin="00:02:18.347" end="00:02:20.390" style="s2">Nove horas: O regresso</p>
+<p begin="00:02:20.663" end="00:02:24.328" style="s2">Depois daquela aventura,<br />o herói regressa ao seu mundo normal.</p>
+<p begin="00:02:25.120" end="00:02:27.354" style="s2">Dez horas: A nova vida</p>
+<p begin="00:02:27.454" end="00:02:31.367" style="s2">Esta demanda alterou o herói,<br />ele ultrapassou a sua antiga vida.</p>
+<p begin="00:02:32.318" end="00:02:34.691" style="s2">Onze horas: A resolução</p>
+<p begin="00:02:34.848" end="00:02:37.489" style="s2">O enredo fica desenredado.</p>
+<p begin="00:02:38.284" end="00:02:40.654" style="s2">Doze horas: O &quot;status quo&quot;,</p>
+<p begin="00:02:40.707" end="00:02:42.936" style="s2">mas atualizado num novo nível.</p>
+<p begin="00:02:42.989" end="00:02:45.672" style="s2">Nada volta a ser o mesmo<br />depois de sermos um herói.</p>
+<p begin="00:02:45.784" end="00:02:47.683" style="s2">Muitos livros e filmes populares</p>
+<p begin="00:02:47.740" end="00:02:50.276" style="s2">seguem esta antiga fórmula<br />de muito perto.</p>
+<p begin="00:02:50.357" end="00:02:53.117" style="s2">Mas vejamos como &quot;Os Jogos da Fome&quot;<br />se encaixam no padrão</p>
+<p begin="00:02:53.157" end="00:02:54.176" style="s2">do percurso do herói.</p>
+<p begin="00:02:54.206" end="00:02:56.435" style="s2">Quando é que Katniss Everdeen<br />ouve o chamamento</p>
+<p begin="00:02:56.459" end="00:02:58.225" style="s2">que põe a história em movimento?</p>
+<p begin="00:02:58.249" end="00:03:00.859" style="s2">Quando a lotaria chama<br />pelo nome da irmã dela.</p>
+<p begin="00:03:01.459" end="00:03:03.074" style="s2">E quanto à ajuda?</p>
+<p begin="00:03:03.098" end="00:03:05.438" style="s2">Alguém a vai ajudar na sua aventura?</p>
+<p begin="00:03:05.462" end="00:03:06.711" style="s2">Haymitch.</p>
+<p begin="00:03:06.735" end="00:03:08.330" style="s2">E quanto à partida?</p>
+<p begin="00:03:08.392" end="00:03:10.575" style="s2">Ela abandona o seu mundo habitual?</p>
+<p begin="00:03:10.628" end="00:03:12.621" style="s2">Vai de comboio para a capital.</p>
+<p begin="00:03:12.702" end="00:03:14.403" style="s2">Ok, já devem ter percebido.</p>
+<p begin="00:03:14.460" end="00:03:16.645" style="s2">O que é que temos em comum<br />com Harry Potter,</p>
+<p begin="00:03:16.707" end="00:03:18.755" style="s2">com Katniss Everdeen, e com Frodo?</p>
+<p begin="00:03:18.940" end="00:03:21.213" style="s2">Somos seres humanos, tal como eles.</p>
+<p begin="00:03:21.981" end="00:03:24.958" style="s2">O mito do percurso do herói<br />existe em todas as culturas humanas</p>
+<p begin="00:03:25.200" end="00:03:26.772" style="s2">e continua a ser atualizado,</p>
+<p begin="00:03:26.825" end="00:03:29.730" style="s2">porque nós, os seres humanos,<br />refletimos sobre o nosso mundo</p>
+<p begin="00:03:29.764" end="00:03:32.706" style="s2">através de histórias simbólicas<br />da nossa vida.</p>
+<p begin="00:03:33.082" end="00:03:35.112" style="s2">Saímos da nossa zona de conforto,</p>
+<p begin="00:03:35.155" end="00:03:37.886" style="s2">vivemos uma experiência<br />que nos transforma,</p>
+<p begin="00:03:37.938" end="00:03:40.181" style="s2">e depois recuperamos<br />e voltamos a fazer o mesmo.</p>
+<p begin="00:03:40.459" end="00:03:43.440" style="s2">Não chacinamos dragões<br />nem lutamos com Voldemort,</p>
+<p begin="00:03:43.464" end="00:03:46.002" style="s2">mas enfrentamos problemas<br />igualmente assustadores.</p>
+<p begin="00:03:46.026" end="00:03:47.676" style="s2">Joseph Campbell disse:</p>
+<p begin="00:03:47.728" end="00:03:51.455" style="s2">&quot;Na gruta em que temos medo de entrar<br />está o tesouro que procuramos&quot;.</p>
+<p begin="00:03:52.143" end="00:03:55.153" style="s2">Qual é a gruta simbólica<br />em que temos medo de entrar?</p>
+<p begin="00:03:55.301" end="00:03:57.209" style="s2">Uma audição para a peça da escola?</p>
+<p begin="00:03:57.522" end="00:03:59.394" style="s2">A seleção para o basebol?</p>
+<p begin="00:03:59.456" end="00:04:00.865" style="s2">O amor?</p>
+<p begin="00:04:01.161" end="00:04:04.773" style="s2">Observem esta fórmula nos livros,<br />nos filmes e nos programas de TV.</p>
+<p begin="00:04:04.864" end="00:04:06.708" style="s2">Certamente, vão voltar a encontrá-la.</p>
+<p begin="00:04:06.761" end="00:04:09.580" style="s2">Mas estejam também atentos a ela<br />na vossa vida.</p>
+<p begin="00:04:09.616" end="00:04:11.788" style="s2">Escutem a chamada para a aventura.</p>
+<p begin="00:04:12.083" end="00:04:13.641" style="s2">Aceitem o desafio.</p>
+<p begin="00:04:13.836" end="00:04:16.771" style="s2">Conquistem o vosso medo<br />e reclamem o tesouro que procuram.</p>
+<p begin="00:04:17.293" end="00:04:18.569" style="s2">Depois,</p>
+<p begin="00:04:18.697" end="00:04:20.573" style="s2">voltem a fazer o mesmo.</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="hu" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:07.000" style="s2">Fordító: Lívia Sági<br />Lektor: Ádám Kósa</p>
+<p begin="00:00:13.988" end="00:00:15.411" style="s2">Mi a közös Harry Potterben,</p>
+<p begin="00:00:15.435" end="00:00:17.554" style="s2">Katniss Everdeenben, Frodóban</p>
+<p begin="00:00:17.578" end="00:00:20.417" style="s2">és az ókori mítoszok hőseiben?</p>
+<p begin="00:00:20.441" end="00:00:21.442" style="s2">(Ordítás)</p>
+<p begin="00:00:21.466" end="00:00:24.724" style="s2">Mi lenne, ha azt mondanám,<br />mind egy hős más-más alakban?</p>
+<p begin="00:00:25.788" end="00:00:27.377" style="s2">El tudjuk ezt képzelni?</p>
+<p begin="00:00:27.401" end="00:00:28.952" style="s2">Joseph Campbell el tudta.</p>
+<p begin="00:00:28.972" end="00:00:31.767" style="s2">A világ különböző tájainak<br />mítoszainak tanulmányozása után</p>
+<p begin="00:00:31.797" end="00:00:34.634" style="s2">kiadta &quot;Az ezerarcú hős&quot; című könyvét,</p>
+<p begin="00:00:34.658" end="00:00:36.486" style="s2">amiben számos történetet mond el újra,</p>
+<p begin="00:00:36.486" end="00:00:39.495" style="s2">kifejtve, hogy miként épül<br />mindegyik a monomítoszra,</p>
+<p begin="00:00:39.495" end="00:00:41.100" style="s2">azaz a Hős Útjára.</p>
+<p begin="00:00:42.120" end="00:00:44.496" style="s2">De mi is a Hős Útja?</p>
+<p begin="00:00:44.750" end="00:00:46.734" style="s2">Képzeljük el úgy, mint egy körforgást.</p>
+<p begin="00:00:46.851" end="00:00:50.513" style="s2">Az út a hős mindennapi világában<br />kezdődik és ér véget,</p>
+<p begin="00:00:50.537" end="00:00:55.137" style="s2">de kalandjai ismeretlen,<br />különleges világokba vezetik.</p>
+<p begin="00:00:55.161" end="00:00:57.578" style="s2">Útközben kulcsesemények<br />egész során megy keresztül.</p>
+<p begin="00:00:57.602" end="00:01:00.189" style="s2">Gondoljunk a kedvenc<br />könyvünkre vagy filmünkre!</p>
+<p begin="00:01:00.213" end="00:01:01.976" style="s2">Ezt a sémát követi?</p>
+<p begin="00:01:03.464" end="00:01:06.077" style="s2">Adott tehát a &quot;status quo&quot;,<br />itt kezdődik minden.</p>
+<p begin="00:01:07.148" end="00:01:09.531" style="s2">01:00: Kalandra hívás</p>
+<p begin="00:01:09.555" end="00:01:12.081" style="s2">A hős titokzatos üzenetet kap.</p>
+<p begin="00:01:12.105" end="00:01:14.209" style="s2">Talán egy meghívást vagy kihívást?</p>
+<p begin="00:01:14.572" end="00:01:16.397" style="s2">02:00: A segítség</p>
+<p begin="00:01:16.421" end="00:01:21.098" style="s2">A hősnek talán egy nála idősebb<br />vagy bölcsebb segítségére van szüksége.</p>
+<p begin="00:01:21.122" end="00:01:22.682" style="s2">03:00: Elindulás</p>
+<p begin="00:01:22.706" end="00:01:26.063" style="s2">A hős átlépi biztonságos<br />otthonának küszöbét,</p>
+<p begin="00:01:26.087" end="00:01:29.054" style="s2">és belép egy különleges, kalandos világba.</p>
+<p begin="00:01:29.078" end="00:01:30.871" style="s2">Már nem Kansasben vagyunk.</p>
+<p begin="00:01:30.895" end="00:01:32.775" style="s2">04:00: A próbatételek</p>
+<p begin="00:01:32.799" end="00:01:34.077" style="s2">Hősnek lenni kemény munka:</p>
+<p begin="00:01:34.101" end="00:01:35.331" style="s2">hősünk rejtélyt old meg,</p>
+<p begin="00:01:35.355" end="00:01:36.574" style="s2">szörnyet győz le,</p>
+<p begin="00:01:36.598" end="00:01:38.763" style="s2">csapdából szabadul.</p>
+<p begin="00:01:39.296" end="00:01:41.524" style="s2">05:00: A cél közelében</p>
+<p begin="00:01:41.548" end="00:01:45.770" style="s2">Ideje szembenézni a legnagyobb<br />megpróbáltatással, a hős rémálmával.</p>
+<p begin="00:01:46.268" end="00:01:47.578" style="s2">(Ordítás)</p>
+<p begin="00:01:48.318" end="00:01:50.178" style="s2">06:00: A válság</p>
+<p begin="00:01:50.843" end="00:01:52.777" style="s2">A hős számára ez a legsötétebb óra:</p>
+<p begin="00:01:52.801" end="00:01:55.650" style="s2">szembenéz a halállal, és talán meg is hal,</p>
+<p begin="00:01:55.674" end="00:01:57.936" style="s2">hogy aztán újra feltámadjon.</p>
+<p begin="00:01:58.764" end="00:02:00.562" style="s2">07:00: A kincs</p>
+<p begin="00:02:00.798" end="00:02:01.798" style="s2">(Ordítás)</p>
+<p begin="00:02:02.196" end="00:02:06.661" style="s2">Jutalmul a hős kincsre, különleges erőre</p>
+<p begin="00:02:06.715" end="00:02:08.150" style="s2">vagy elismerésre tesz szert.</p>
+<p begin="00:02:08.251" end="00:02:09.953" style="s2">08:00: Az eredmény</p>
+<p begin="00:02:09.977" end="00:02:12.197" style="s2">Ez a történetek legváltozatosabb eleme.</p>
+<p begin="00:02:12.221" end="00:02:14.392" style="s2">A szörnyek fejet hajtanak a hős előtt,</p>
+<p begin="00:02:14.416" end="00:02:17.863" style="s2">vagy kiüldözik a különleges világból?</p>
+<p begin="00:02:18.347" end="00:02:20.210" style="s2">09:00: Visszatérés</p>
+<p begin="00:02:20.663" end="00:02:24.468" style="s2">A sok kaland után, a hős visszatér<br />saját, egyszerű világába.</p>
+<p begin="00:02:25.120" end="00:02:27.145" style="s2">10:00: Új élet</p>
+<p begin="00:02:27.169" end="00:02:31.442" style="s2">A kaland megváltoztatta a hőst,<br />aki túlnőtt régi életén.</p>
+<p begin="00:02:32.318" end="00:02:34.576" style="s2">11:00: A megoldás</p>
+<p begin="00:02:34.620" end="00:02:37.462" style="s2">A kusza történetszálak kibogozódnak.</p>
+<p begin="00:02:38.284" end="00:02:40.569" style="s2">12:00: Status quo,</p>
+<p begin="00:02:40.593" end="00:02:42.756" style="s2">de új szintre emelve.</p>
+<p begin="00:02:42.780" end="00:02:45.486" style="s2">Mindent megváltoztat,<br />ha már egyszer hőssé válunk.</p>
+<p begin="00:02:45.784" end="00:02:47.445" style="s2">Sok népszerű könyv és film</p>
+<p begin="00:02:47.469" end="00:02:50.153" style="s2">hűen követi ezt az ősi receptet.</p>
+<p begin="00:02:50.177" end="00:02:53.887" style="s2">De nézzük meg, mennyire illik<br />ebbe a sémába &quot;Az éhezők viadala&quot;.</p>
+<p begin="00:02:53.911" end="00:02:56.435" style="s2">Mikor hallja meg Katniss Everdeen<br />a kalandra hívást,</p>
+<p begin="00:02:56.459" end="00:02:57.902" style="s2">ami elindítja a történetet?</p>
+<p begin="00:02:57.926" end="00:03:00.567" style="s2">Amikor a húgát kisorsolják.</p>
+<p begin="00:03:01.459" end="00:03:03.074" style="s2">Kap segítséget?</p>
+<p begin="00:03:03.098" end="00:03:05.248" style="s2">Valakitől támaszt a kalandok során?</p>
+<p begin="00:03:05.372" end="00:03:06.621" style="s2">Haymitch.</p>
+<p begin="00:03:06.735" end="00:03:08.283" style="s2">Hogyan indul el?</p>
+<p begin="00:03:08.307" end="00:03:10.404" style="s2">Elhagyja mindennapi világát?</p>
+<p begin="00:03:10.428" end="00:03:12.305" style="s2">Vonatra száll a főváros felé.</p>
+<p begin="00:03:12.335" end="00:03:14.290" style="s2">Oké, így már képben vagyunk.</p>
+<p begin="00:03:14.320" end="00:03:16.412" style="s2">Mi a közös bennünk, Harry Potterben,</p>
+<p begin="00:03:16.546" end="00:03:18.498" style="s2">Katniss Everdeenben és Frodóban?</p>
+<p begin="00:03:18.522" end="00:03:20.955" style="s2">Hozzájuk hasonlóan mi is emberek vagyunk.</p>
+<p begin="00:03:21.981" end="00:03:24.873" style="s2">A Hős Útja mítosz megtalálható<br />minden emberi kultúrában,</p>
+<p begin="00:03:24.897" end="00:03:26.582" style="s2">és folyamatosan megújul,</p>
+<p begin="00:03:26.606" end="00:03:28.888" style="s2">hiszen mi, emberek az életünkről szóló</p>
+<p begin="00:03:28.902" end="00:03:32.261" style="s2">jelképes történeteken<br />keresztül éljük meg a világot.</p>
+<p begin="00:03:32.922" end="00:03:35.055" style="s2">Kilépünk a komfortzónánkból,</p>
+<p begin="00:03:35.079" end="00:03:37.534" style="s2">egy tapasztalat átformál,</p>
+<p begin="00:03:37.558" end="00:03:39.797" style="s2">aztán talpra állunk, és újra nekivágunk.</p>
+<p begin="00:03:40.249" end="00:03:43.354" style="s2">Nem öljük meg a sárkányt<br />és nem harcolunk Voldemorttal,</p>
+<p begin="00:03:43.354" end="00:03:46.182" style="s2">de legalább ennyire ijesztő<br />problémákkal kell szembenéznünk.</p>
+<p begin="00:03:46.182" end="00:03:47.359" style="s2">Joseph Campbell szerint:</p>
+<p begin="00:03:47.359" end="00:03:51.450" style="s2">&quot;Amit keresel, az éppen abban<br />a barlangban rejlik, ahová félsz belépni.&quot;</p>
+<p begin="00:03:51.973" end="00:03:55.087" style="s2">Mi az a jelképes barlang,<br />ahová félünk belépni?</p>
+<p begin="00:03:55.111" end="00:03:57.044" style="s2">Meghallgatás az iskolai darabhoz?</p>
+<p begin="00:03:57.522" end="00:03:59.242" style="s2">Próbajáték a baseballcsapatban?</p>
+<p begin="00:03:59.266" end="00:04:00.789" style="s2">Szerelem?</p>
+<p begin="00:04:00.813" end="00:04:04.640" style="s2">Keressük ezt a mintát könyvekben,<br />filmekben, sorozatokban.</p>
+<p begin="00:04:04.664" end="00:04:06.385" style="s2">Biztos megtaláljuk.</p>
+<p begin="00:04:06.409" end="00:04:09.222" style="s2">Ugyanakkor legyünk rá fogékonyak<br />a saját életükben is.</p>
+<p begin="00:04:09.616" end="00:04:11.844" style="s2">Figyeljünk a kaland hívó szavára,</p>
+<p begin="00:04:12.083" end="00:04:13.431" style="s2">és fogadjuk el a kihívást.</p>
+<p begin="00:04:13.515" end="00:04:16.690" style="s2">Győzzük le félelmünket,<br />és szerezzük meg az áhított kincset.</p>
+<p begin="00:04:17.293" end="00:04:18.569" style="s2">Ezután pedig</p>
+<p begin="00:04:18.593" end="00:04:19.983" style="s2">kezdődhet az egész elölről.</p>
+</div>
+</body>
+</tt>

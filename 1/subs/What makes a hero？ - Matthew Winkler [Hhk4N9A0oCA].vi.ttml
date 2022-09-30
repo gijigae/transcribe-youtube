@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="vi" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:07.000" style="s2">Translator: Viết Ngọc Đặng<br />Reviewer: Ken Tran</p>
+<p begin="00:00:14.185" end="00:00:15.435" style="s2">Điều gì đã làm nên Harry Potter,</p>
+<p begin="00:00:15.435" end="00:00:16.561" style="s2">Katniss Everdeen,</p>
+<p begin="00:00:16.561" end="00:00:17.578" style="s2">và Frodo</p>
+<p begin="00:00:17.578" end="00:00:21.621" style="s2">Họ có điểm gì chung với những vị anh hùng trong truyền thuyết?</p>
+<p begin="00:00:21.621" end="00:00:25.609" style="s2">Nếu tôi nói với bạn rằng họ cũng là những người anh hùng?</p>
+<p begin="00:00:25.609" end="00:00:27.401" style="s2">Bạn sẽ tin vào điều đó chứ?</p>
+<p begin="00:00:27.401" end="00:00:28.982" style="s2">Joseph Campbell</p>
+<p begin="00:00:28.982" end="00:00:31.044" style="s2">Người đã nghiên cứu rất nhiều những câu chuyện huyền thoại trên khắp thế giới</p>
+<p begin="00:00:31.044" end="00:00:32.537" style="s2">và xuất bản một cuốn sách có tên là</p>
+<p begin="00:00:32.537" end="00:00:34.658" style="s2">&quot;The Hero with a Thousand Faces,&quot;</p>
+<p begin="00:00:34.658" end="00:00:36.320" style="s2">kể lại hàng chục câu chuyện</p>
+<p begin="00:00:36.320" end="00:00:39.079" style="s2">và giải thích sự ra đời của các huyền thoại hay</p>
+<p begin="00:00:39.079" end="00:00:40.904" style="s2">&quot;hành trình của các vị anh hùng&quot;</p>
+<p begin="00:00:42.120" end="00:00:44.750" style="s2">Vậy, &quot;hành trình của các vị anh hùng&quot; là gì?</p>
+<p begin="00:00:44.750" end="00:00:46.850" style="s2">Hãy nghĩ nó như một chu trình.</p>
+<p begin="00:00:46.850" end="00:00:50.537" style="s2">Cuộc hành trình bắt đầu và kết thúc trong thế giới bình thường của một vị anh hùng</p>
+<p begin="00:00:50.537" end="00:00:55.220" style="s2">nhưng có nhiệm vụ phải thực hiện trong một thế giới đầy bí ẩn và xa lạ.</p>
+<p begin="00:00:55.220" end="00:00:57.602" style="s2">Trên suốt chuyến phiêu lưu, có nhiều sự kiện quan trong đã xảy ra</p>
+<p begin="00:00:57.602" end="00:01:00.213" style="s2">Hãy nghỉ về những câu chuyện trong tiểu thuyết hay bộ phim mà bạn thích</p>
+<p begin="00:01:00.213" end="00:01:02.725" style="s2">Liệu chúng có giống như vậy không:?</p>
+<p begin="00:01:03.464" end="00:01:05.950" style="s2">Chúng ta hãy bắt đầu nhé!</p>
+<p begin="00:01:06.751" end="00:01:09.555" style="s2">1:00: Lời mời gọi về cuộc phiêu lưu</p>
+<p begin="00:01:09.555" end="00:01:12.105" style="s2">Người anh hùng nhận được một thông điệp bí ẩn,</p>
+<p begin="00:01:12.105" end="00:01:13.187" style="s2">Một lời mời?</p>
+<p begin="00:01:13.187" end="00:01:14.572" style="s2">Một thử thách?</p>
+<p begin="00:01:14.572" end="00:01:16.421" style="s2">2:00: Sự trợ giúp</p>
+<p begin="00:01:16.421" end="00:01:17.840" style="s2">Người anh hùng cần một sự giúp đỡ</p>
+<p begin="00:01:17.840" end="00:01:21.122" style="s2">có thể từ một ai đó kinh nghiệm hơn, khôn ngoan hơn.</p>
+<p begin="00:01:21.122" end="00:01:22.706" style="s2">3:00: Ra đi</p>
+<p begin="00:01:22.706" end="00:01:26.087" style="s2">Người anh hùng vượt qua ra khỏi vùng đất của mình</p>
+<p begin="00:01:26.087" end="00:01:29.078" style="s2">và bước vào thế giới bí ẩn để bắt đầu cuộc phiêu lưu.</p>
+<p begin="00:01:29.078" end="00:01:30.895" style="s2">Chúng ta không còn ở Kansas nữa.</p>
+<p begin="00:01:30.895" end="00:01:32.799" style="s2">4:00: Trải nghiệm</p>
+<p begin="00:01:32.799" end="00:01:34.048" style="s2">Để trở thành một anh hùng cần phải trải qua nhiều thử thách</p>
+<p begin="00:01:34.048" end="00:01:35.355" style="s2">người anh hùng của chúng ta phải trả lời những câu hỏi khó.</p>
+<p begin="00:01:35.355" end="00:01:36.598" style="s2">giết quái vật,</p>
+<p begin="00:01:36.598" end="00:01:38.433" style="s2">và thoát khỏi những cạm bẫy.</p>
+<p begin="00:01:39.296" end="00:01:41.548" style="s2">5:00: Đối mặt</p>
+<p begin="00:01:41.548" end="00:01:43.848" style="s2">Đây là lúc đối mặt với thử thách lớn nhất,</p>
+<p begin="00:01:43.848" end="00:01:45.871" style="s2">người anh hùng phải đối mặt với nỗi sợ lớn nhất của chính mình.</p>
+<p begin="00:01:48.318" end="00:01:50.843" style="s2">6:00: Khủng hoảng</p>
+<p begin="00:01:50.843" end="00:01:52.801" style="s2">Đây là thời khắc đen tối nhất của người anh hùng.</p>
+<p begin="00:01:52.801" end="00:01:55.674" style="s2">Phải đối mặt với cái chết và thậm chí là phải chết</p>
+<p begin="00:01:55.674" end="00:01:57.456" style="s2">để chuẩn bị cho sự tái sinh.</p>
+<p begin="00:01:58.764" end="00:02:00.980" style="s2">7:00: Kho báu</p>
+<p begin="00:02:02.196" end="00:02:05.866" style="s2">Và sau trận chiến, người anh hùng của chúng ta tìm ra kho báu,</p>
+<p begin="00:02:05.866" end="00:02:08.251" style="s2">năng lực đặc biệt hay sức mạnh phi thường.</p>
+<p begin="00:02:08.251" end="00:02:09.977" style="s2">8:00: Kết quả</p>
+<p begin="00:02:09.977" end="00:02:12.221" style="s2">Điều này có thể khác nhau giữa những câu chuyện.</p>
+<p begin="00:02:12.221" end="00:02:14.416" style="s2">Những con quái vật phủ phục trước các vị anh hùng</p>
+<p begin="00:02:14.416" end="00:02:18.347" style="s2">hay họ bị truy đuổi cho đến khi họ thoát khỏi thế giới kì bí đó?</p>
+<p begin="00:02:18.347" end="00:02:20.663" style="s2">9:00: Trở về</p>
+<p begin="00:02:20.663" end="00:02:25.120" style="s2">Sau khi tất cả những cuộc phiêu lưu, anh hùng trở về thế giới của mình.</p>
+<p begin="00:02:25.120" end="00:02:27.169" style="s2">10:00: Cuộc sống mới</p>
+<p begin="00:02:27.169" end="00:02:29.478" style="s2">Cuộc hành trình đã làm thay đổi anh hùng;</p>
+<p begin="00:02:29.478" end="00:02:32.318" style="s2">Họ đã trưởng thành hơn so với trước đây.</p>
+<p begin="00:02:32.318" end="00:02:34.620" style="s2">11:00: Sự giải quyết</p>
+<p begin="00:02:34.620" end="00:02:38.284" style="s2">Tất cả những âm mưu rối rắm được gỡ bỏ</p>
+<p begin="00:02:38.284" end="00:02:40.593" style="s2">12:00: Vị anh hùng trở về với những công việc của mình,</p>
+<p begin="00:02:40.593" end="00:02:42.780" style="s2">nhưng giờ đã ở một mức độ cao hơn.</p>
+<p begin="00:02:42.780" end="00:02:45.784" style="s2">Chẳng có gì giống với trước kia khi bạn đã là một người anh hùng.</p>
+<p begin="00:02:45.784" end="00:02:47.469" style="s2">Nhiều cuốn sách và bộ phim nổi tiếng</p>
+<p begin="00:02:47.469" end="00:02:50.177" style="s2">đã áp dụng một công thức cổ xưa này một cách nhuần nhuyễn.</p>
+<p begin="00:02:50.177" end="00:02:53.911" style="s2">Hãy cùng xem &quot;The Hunger Games&quot; giống với khuôn mẫu về cuộc hành trình của người anh hùng như thế nào.</p>
+<p begin="00:02:53.911" end="00:02:55.968" style="s2">Khi nào Katniss Everdeen nghe được tiếng gọi đến với cuộc phiêu lưu</p>
+<p begin="00:02:55.968" end="00:02:57.926" style="s2">điều làm cho câu chuyện được tiếp tục?</p>
+<p begin="00:02:57.926" end="00:03:01.459" style="s2">Khi tên của chị gái cô được xướng lên trong một cuộc chơi xổ số.</p>
+<p begin="00:03:01.459" end="00:03:03.098" style="s2">Còn người giúp đỡ thì sao?</p>
+<p begin="00:03:03.098" end="00:03:05.462" style="s2">Ai là người sẵn lòng giúp đỡ cô ấy trong cuộc phiêu lưu của mình?</p>
+<p begin="00:03:05.462" end="00:03:06.735" style="s2">Chính là Haymitch.</p>
+<p begin="00:03:06.735" end="00:03:08.307" style="s2">Còn sự khởi hành?</p>
+<p begin="00:03:08.307" end="00:03:10.428" style="s2">Liệu cô ấy có rời khỏi thế giới của mình?</p>
+<p begin="00:03:10.428" end="00:03:12.645" style="s2">Cô ấy đã lên một chuyến tàu để đi vào thành phố.</p>
+<p begin="00:03:12.645" end="00:03:14.094" style="s2">OK, bạn đã có được ý tưởng.</p>
+<p begin="00:03:14.094" end="00:03:15.609" style="s2">Bạn thấy mình có điểm chung gì</p>
+<p begin="00:03:15.609" end="00:03:16.546" style="s2">với Harry Potter,</p>
+<p begin="00:03:16.546" end="00:03:17.391" style="s2">Katniss Everdeen,</p>
+<p begin="00:03:17.391" end="00:03:18.522" style="s2">và Frodo?</p>
+<p begin="00:03:18.522" end="00:03:21.981" style="s2">Phải, bạn là con người, giống như họ vậy</p>
+<p begin="00:03:21.981" end="00:03:24.897" style="s2">Huyền thoại về hành trình của vị anh hùng tồn tại trong tất cả các nền văn hóa trên thế giới</p>
+<p begin="00:03:24.897" end="00:03:26.606" style="s2">và sẽ còn nhiều hơn những câu chuyện như thế</p>
+<p begin="00:03:26.606" end="00:03:28.891" style="s2">bởi vì chúng ta cảm nhận thế giới</p>
+<p begin="00:03:28.892" end="00:03:33.082" style="s2">qua những câu chuyện cuộc sống của chính chúng ta</p>
+<p begin="00:03:33.082" end="00:03:35.079" style="s2">Bạn bước ra khỏi &quot;vùng an toàn&quot; của bạn,</p>
+<p begin="00:03:35.079" end="00:03:37.558" style="s2">có trải nghiệm nào đó sẽ làm thay đổi bạn,</p>
+<p begin="00:03:37.558" end="00:03:40.459" style="s2">và khi đã học được từ nó, bạn lặp lại lần nữa</p>
+<p begin="00:03:40.459" end="00:03:43.464" style="s2">Không phải theo nghĩa là bạn phải đi giết rồng hay chiến đấu với Voldermort,</p>
+<p begin="00:03:43.464" end="00:03:46.026" style="s2">mà là bạn phải đối mặt với những sợ hãi của bản thân.</p>
+<p begin="00:03:46.026" end="00:03:47.243" style="s2">Joseph Campbell nói,</p>
+<p begin="00:03:47.243" end="00:03:52.143" style="s2">&quot;Trong nơi chứa đầy nỗi sợ hãi cũng là nơi chứa kho báu mà bạn kiếm tìm&quot;</p>
+<p begin="00:03:52.143" end="00:03:55.111" style="s2">Nơi chứa đầy nỗi sợ hãi cùa bạn là gì?</p>
+<p begin="00:03:55.111" end="00:03:57.522" style="s2">Tham gia vào vở kịch của trường?</p>
+<p begin="00:03:57.522" end="00:03:59.266" style="s2">Chơi bóng chày?</p>
+<p begin="00:03:59.266" end="00:04:00.813" style="s2">Tình yêu?</p>
+<p begin="00:04:00.813" end="00:04:04.664" style="s2">Hãy nhớ công thức này khi bạn đọc những cuốn sách hay xem những bộ phim.</p>
+<p begin="00:04:04.664" end="00:04:06.409" style="s2">Bạn chắc chắn sẽ gặp nó nhiều lần.</p>
+<p begin="00:04:06.409" end="00:04:09.616" style="s2">Không những thế ,bạn còn có thể cảm thấy nó trong cuộc sống của riêng bạn.</p>
+<p begin="00:04:09.616" end="00:04:12.083" style="s2">Hãy lắng nghe tiếng gọi đến với cuộc phiêu lưu.</p>
+<p begin="00:04:12.083" end="00:04:13.665" style="s2">Chấp nhận thử thách.</p>
+<p begin="00:04:13.665" end="00:04:14.936" style="s2">Chinh phục nỗi sợ hãi</p>
+<p begin="00:04:14.936" end="00:04:17.293" style="s2">đê nhận lấy kho báu bạn kiếm tìm.</p>
+<p begin="00:04:17.293" end="00:04:18.593" style="s2">Và sau đó,</p>
+<p begin="00:04:18.593" end="00:04:20.439" style="s2">Hãy tiếp tục làm lại điều này!!!</p>
+</div>
+</body>
+</tt>

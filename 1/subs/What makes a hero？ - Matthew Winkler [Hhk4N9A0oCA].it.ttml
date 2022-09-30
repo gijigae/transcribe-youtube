@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="it" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:07.000" style="s2">Traduttore: Claudio Dinapoli<br />Revisore: Anna Cristiana Minoli</p>
+<p begin="00:00:14.185" end="00:00:15.435" style="s2">Cosa Harry Potter,</p>
+<p begin="00:00:15.435" end="00:00:16.561" style="s2">Katniss Everdeen</p>
+<p begin="00:00:16.561" end="00:00:17.578" style="s2">e Frodo</p>
+<p begin="00:00:17.578" end="00:00:21.621" style="s2">hanno in comune con gli eroi delle antiche leggende?</p>
+<p begin="00:00:21.621" end="00:00:25.609" style="s2">E se vi dicessi che sono tutti varianti del medesimo eroe?</p>
+<p begin="00:00:25.609" end="00:00:27.401" style="s2">Ci credereste?</p>
+<p begin="00:00:27.401" end="00:00:28.982" style="s2">Joseph Campbell sì.</p>
+<p begin="00:00:28.982" end="00:00:31.044" style="s2">Studiò le leggende dell&#39;intero pianeta</p>
+<p begin="00:00:31.044" end="00:00:32.537" style="s2">e pubblicò un libro intitolato</p>
+<p begin="00:00:32.537" end="00:00:34.658" style="s2">&quot;L&#39;eroe dai mille volti&quot;,</p>
+<p begin="00:00:34.658" end="00:00:36.320" style="s2">rievocò decine di storie</p>
+<p begin="00:00:36.320" end="00:00:39.079" style="s2">e spiegò come ciascuna rappresenti la saga per eccellenza</p>
+<p begin="00:00:39.079" end="00:00:40.904" style="s2">o il viaggio dell&#39;eroe.</p>
+<p begin="00:00:42.120" end="00:00:44.750" style="s2">Quindi, cos&#39;è il viaggio dell&#39;eroe?</p>
+<p begin="00:00:44.750" end="00:00:46.850" style="s2">Immaginatelo come un ciclo.</p>
+<p begin="00:00:46.850" end="00:00:50.537" style="s2">Il viaggio inizia e finisce nel mondo ordinario dell&#39;eroe</p>
+<p begin="00:00:50.537" end="00:00:55.220" style="s2">ma la ricerca attraversa un mondo speciale e ignoto.</p>
+<p begin="00:00:55.220" end="00:00:57.602" style="s2">Durante il percorso ci sono alcuni eventi chiave.</p>
+<p begin="00:00:57.602" end="00:01:00.213" style="s2">Pensate al vostro libro o film preferito.</p>
+<p begin="00:01:00.213" end="00:01:02.725" style="s2">Segue questo schema di eventi?</p>
+<p begin="00:01:03.464" end="00:01:05.950" style="s2">Lo status quo, è da qui che iniziamo.</p>
+<p begin="00:01:06.751" end="00:01:09.555" style="s2">È l&#39;1:00. Il richiamo dell&#39;avventura.</p>
+<p begin="00:01:09.555" end="00:01:12.105" style="s2">L&#39;eroe riceve un misterioso messaggio.</p>
+<p begin="00:01:12.105" end="00:01:13.187" style="s2">Un invito?</p>
+<p begin="00:01:13.187" end="00:01:14.572" style="s2">Una sfida?</p>
+<p begin="00:01:14.572" end="00:01:16.421" style="s2">Sono le 2:00. L&#39;assistenza.</p>
+<p begin="00:01:16.421" end="00:01:17.840" style="s2">L&#39;eroe ha bisogno di aiuto,</p>
+<p begin="00:01:17.840" end="00:01:21.122" style="s2">probabilmente da qualcuno più grande, più saggio.</p>
+<p begin="00:01:21.122" end="00:01:22.706" style="s2">Le 3:00. La partenza.</p>
+<p begin="00:01:22.706" end="00:01:26.087" style="s2">L&#39;eroe varca la soglia che dalla sua esistenza sicura e normale</p>
+<p begin="00:01:26.087" end="00:01:29.078" style="s2">ed entra nel mondo speciale e nell&#39;avventura.</p>
+<p begin="00:01:29.078" end="00:01:30.895" style="s2">Non siamo più nel Kansas.</p>
+<p begin="00:01:30.895" end="00:01:32.799" style="s2">Ore 4:00. Le prove.</p>
+<p begin="00:01:32.799" end="00:01:34.048" style="s2">Essere un eroe è un lavoro duro:</p>
+<p begin="00:01:34.048" end="00:01:35.355" style="s2">il nostro eroe risolve un enigma,</p>
+<p begin="00:01:35.355" end="00:01:36.598" style="s2">ammazza un mostro,</p>
+<p begin="00:01:36.598" end="00:01:38.433" style="s2">sfugge ad una trappola.</p>
+<p begin="00:01:39.296" end="00:01:41.548" style="s2">Ore 5:00. Il confronto.</p>
+<p begin="00:01:41.548" end="00:01:43.848" style="s2">È tempo di affrontare la prova più grande,</p>
+<p begin="00:01:43.848" end="00:01:45.871" style="s2">la peggior paura dell&#39;eroe.</p>
+<p begin="00:01:48.318" end="00:01:50.843" style="s2">Ore 6:00. La crisi.</p>
+<p begin="00:01:50.843" end="00:01:52.801" style="s2">Questa è l&#39;ora più cupa per l&#39;eroe.</p>
+<p begin="00:01:52.801" end="00:01:55.674" style="s2">Affronta la morte e in alcuni casi muore</p>
+<p begin="00:01:55.674" end="00:01:57.456" style="s2">solo per rinascere nuovamente.</p>
+<p begin="00:01:58.764" end="00:02:00.980" style="s2">Le 7:00. Il tesoro.</p>
+<p begin="00:02:02.196" end="00:02:05.866" style="s2">Alla fine l&#39;eroe reclama un qualche tesoro,</p>
+<p begin="00:02:05.866" end="00:02:08.251" style="s2">un riconoscimento speciale o un potere.</p>
+<p begin="00:02:08.251" end="00:02:09.977" style="s2">Le 8:00. Il risultato.</p>
+<p begin="00:02:09.977" end="00:02:12.221" style="s2">Questa parte varia da storia a storia.</p>
+<p begin="00:02:12.221" end="00:02:14.416" style="s2">I mostri s&#39;inchinano ai piedi dell&#39;eroe</p>
+<p begin="00:02:14.416" end="00:02:18.347" style="s2">o lo inseguono mentre lui scappa dal mondo speciale?</p>
+<p begin="00:02:18.347" end="00:02:20.663" style="s2">Le 9:00. Il ritorno.</p>
+<p begin="00:02:20.663" end="00:02:25.120" style="s2">Dopo tutta questa avventura, l&#39;eroe ritorna al suo mondo ordinario.</p>
+<p begin="00:02:25.120" end="00:02:27.169" style="s2">Ore 10:00. La nuova vita.</p>
+<p begin="00:02:27.169" end="00:02:29.478" style="s2">Questa ricerca ha cambiato il nostro eroe,</p>
+<p begin="00:02:29.478" end="00:02:32.318" style="s2">ed è maturato rispetto alla sua vecchia esistenza.</p>
+<p begin="00:02:32.318" end="00:02:34.620" style="s2">Le 11:00. La risoluzione.</p>
+<p begin="00:02:34.620" end="00:02:38.284" style="s2">Tutte le trame intricate vengono risolte.</p>
+<p begin="00:02:38.284" end="00:02:40.593" style="s2">Le 12:00. Status Quo.</p>
+<p begin="00:02:40.593" end="00:02:42.780" style="s2">ma giunto a un livello superiore.</p>
+<p begin="00:02:42.780" end="00:02:45.784" style="s2">Niente è più lo stesso quando sei diventato un eroe.</p>
+<p begin="00:02:45.784" end="00:02:47.469" style="s2">Molti libri e film popolari</p>
+<p begin="00:02:47.469" end="00:02:50.177" style="s2">seguono piuttosto fedelmente questa antica formula.</p>
+<p begin="00:02:50.177" end="00:02:53.911" style="s2">Ma vediamo come &#39;Hunger Games&#39; si adatti bene a questo modello di viaggio dell&#39;eroe.</p>
+<p begin="00:02:53.911" end="00:02:55.968" style="s2">Quando Katniss Everdeen sente il richiamo dell&#39;avventura</p>
+<p begin="00:02:55.968" end="00:02:57.926" style="s2">e mette in moto gli eventi futuri della storia?</p>
+<p begin="00:02:57.926" end="00:03:01.459" style="s2">Quando il nome della sorella viene estratto alla lotteria.</p>
+<p begin="00:03:01.459" end="00:03:03.098" style="s2">E per quanto riguarda l&#39;assistenza?</p>
+<p begin="00:03:03.098" end="00:03:05.462" style="s2">Qualcuno la aiuterà nella sua avventura?</p>
+<p begin="00:03:05.462" end="00:03:06.735" style="s2">Haymitch.</p>
+<p begin="00:03:06.735" end="00:03:08.307" style="s2">E la partenza?</p>
+<p begin="00:03:08.307" end="00:03:10.428" style="s2">Abbandona il suo mondo ordinario?</p>
+<p begin="00:03:10.428" end="00:03:12.645" style="s2">Sale sul treno per la capitale.</p>
+<p begin="00:03:12.645" end="00:03:14.094" style="s2">OK, ora avete capito.</p>
+<p begin="00:03:14.094" end="00:03:15.609" style="s2">Cosa avete voi in comune</p>
+<p begin="00:03:15.609" end="00:03:16.546" style="s2">con Harry Potter,</p>
+<p begin="00:03:16.546" end="00:03:17.391" style="s2">Katniss Everdeen</p>
+<p begin="00:03:17.391" end="00:03:18.522" style="s2">e Frodo?</p>
+<p begin="00:03:18.522" end="00:03:21.981" style="s2">Be&#39;, siamo esseri umani, proprio come loro.</p>
+<p begin="00:03:21.981" end="00:03:24.897" style="s2">Il mito del viaggio dell&#39;eroe esiste in tutte le culture umane</p>
+<p begin="00:03:24.897" end="00:03:26.606" style="s2">e viene costantemente aggiornato</p>
+<p begin="00:03:26.606" end="00:03:28.891" style="s2">perché noi esseri umani giudichiamo il nostro mondo</p>
+<p begin="00:03:28.892" end="00:03:33.082" style="s2">mediante le storie simboliche delle nostre stesse vite.</p>
+<p begin="00:03:33.082" end="00:03:35.079" style="s2">Voi abbandonate il vostro ambiente sicuro,</p>
+<p begin="00:03:35.079" end="00:03:37.558" style="s2">vivete un&#39;esperienza che vi trasforma</p>
+<p begin="00:03:37.558" end="00:03:40.459" style="s2">e poi vi riposate e rifate tutto nuovamente.</p>
+<p begin="00:03:40.459" end="00:03:43.464" style="s2">Nel vero senso della parola non massacrate draghi o combattete Voldemort,</p>
+<p begin="00:03:43.464" end="00:03:46.026" style="s2">ma affrontate problemi altrettanto spaventosi.</p>
+<p begin="00:03:46.026" end="00:03:47.243" style="s2">Joseph Campbell disse:</p>
+<p begin="00:03:47.243" end="00:03:52.143" style="s2">&quot;Nella caverna dove avete paura di entrare si trova il tesoro che state cercando&quot;.</p>
+<p begin="00:03:52.143" end="00:03:55.111" style="s2">Qual è la caverna simbolica in cui avete paura di entrare?</p>
+<p begin="00:03:55.111" end="00:03:57.522" style="s2">Le audizioni per una recita scolastica?</p>
+<p begin="00:03:57.522" end="00:03:59.266" style="s2">Le selezioni per il baseball?</p>
+<p begin="00:03:59.266" end="00:04:00.813" style="s2">L&#39;amore?</p>
+<p begin="00:04:00.813" end="00:04:04.664" style="s2">Prestate attenzione a questa formula nei libri, nei film e negli spettacoli televisivi che incontrate.</p>
+<p begin="00:04:04.664" end="00:04:06.409" style="s2">La ritroverete sicuramente di nuovo.</p>
+<p begin="00:04:06.409" end="00:04:09.616" style="s2">Ma prestate la medesima attenzione alla vostra vita.</p>
+<p begin="00:04:09.616" end="00:04:12.083" style="s2">Ascoltate il richiamo dell&#39;avventura.</p>
+<p begin="00:04:12.083" end="00:04:13.665" style="s2">Accettate la sfida.</p>
+<p begin="00:04:13.665" end="00:04:14.936" style="s2">Dominate la vostra paura</p>
+<p begin="00:04:14.936" end="00:04:17.293" style="s2">e rivendicate il tesoro che state cercando.</p>
+<p begin="00:04:17.293" end="00:04:18.593" style="s2">A poi</p>
+<p begin="00:04:18.593" end="00:04:20.439" style="s2">ricominciate tutto dal principio.</p>
+</div>
+</body>
+</tt>

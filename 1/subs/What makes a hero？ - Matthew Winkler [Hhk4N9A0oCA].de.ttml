@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:07.000" style="s2">Übersetzung: Tonia David<br />Lektorat: Nadine Hennig</p>
+<p begin="00:00:14.185" end="00:00:15.435" style="s2">Was haben Harry Potter,</p>
+<p begin="00:00:15.435" end="00:00:16.561" style="s2">Katniss Everdeen</p>
+<p begin="00:00:16.561" end="00:00:17.578" style="s2">und Frodo</p>
+<p begin="00:00:17.578" end="00:00:21.621" style="s2">mit Helden aus alten Mythen gemeinsam?</p>
+<p begin="00:00:21.621" end="00:00:25.609" style="s2">Wenn ich sage, dass sie alle<br />Varianten des gleichen Helden sind,</p>
+<p begin="00:00:25.609" end="00:00:27.401" style="s2">glaubst du das?</p>
+<p begin="00:00:27.401" end="00:00:28.982" style="s2">Joseph Campbell glaubte es.</p>
+<p begin="00:00:28.982" end="00:00:31.044" style="s2">Er untersuchte Mythen aus der ganzen Welt</p>
+<p begin="00:00:31.044" end="00:00:32.537" style="s2">und veröffentlichte das Buch</p>
+<p begin="00:00:32.537" end="00:00:34.658" style="s2">&quot;Der Heros in tausend Gestalten&quot;.</p>
+<p begin="00:00:34.658" end="00:00:36.320" style="s2">Er erzählte Dutzende von Geschichten nach</p>
+<p begin="00:00:36.320" end="00:00:39.079" style="s2">und erklärt, wie jede<br />den Monomythos darstellt,</p>
+<p begin="00:00:39.079" end="00:00:40.904" style="s2">auch die Heldenreise genannt.</p>
+<p begin="00:00:42.120" end="00:00:44.750" style="s2">Was ist die Heldenreise?</p>
+<p begin="00:00:44.750" end="00:00:46.850" style="s2">Stelle sie dir als einen Zyklus vor.</p>
+<p begin="00:00:46.850" end="00:00:50.537" style="s2">Die Reise beginnt und endet<br />in der gewohnten Welt des Heldens,</p>
+<p begin="00:00:50.537" end="00:00:55.220" style="s2">doch die Reise geht durch<br />eine unbekannte, besondere Welt.</p>
+<p begin="00:00:55.220" end="00:00:57.602" style="s2">Auf dem Weg kommt es zu<br />einigen entscheidenden Ereignissen.</p>
+<p begin="00:00:57.602" end="00:01:00.213" style="s2">Denk an dein Lieblingsbuch<br />oder deinen Lieblingsfilm.</p>
+<p begin="00:01:00.213" end="00:01:02.725" style="s2">Folgen sie diesem Muster?</p>
+<p begin="00:01:03.464" end="00:01:05.950" style="s2">Wir beginnen beim Status quo.</p>
+<p begin="00:01:06.751" end="00:01:09.555" style="s2">1:00 Aufruf zum Abenteuer</p>
+<p begin="00:01:09.555" end="00:01:12.105" style="s2">Der Held erhält eine mysteriöse Nachricht.</p>
+<p begin="00:01:12.105" end="00:01:13.187" style="s2">Eine Einladung?</p>
+<p begin="00:01:13.187" end="00:01:14.572" style="s2">Eine Herausforderung?</p>
+<p begin="00:01:14.572" end="00:01:16.421" style="s2">2:00 Hilfe</p>
+<p begin="00:01:16.421" end="00:01:17.840" style="s2">Der Held braucht Hilfe,</p>
+<p begin="00:01:17.840" end="00:01:21.122" style="s2">vermutlich von jemandem,<br />der älter und weiser ist.</p>
+<p begin="00:01:21.122" end="00:01:22.706" style="s2">3:00 Aufbruch</p>
+<p begin="00:01:22.706" end="00:01:26.087" style="s2">Der Held überschreitet die Grenze<br />seiner normalen, sicheren Welt</p>
+<p begin="00:01:26.087" end="00:01:29.078" style="s2">und tritt in eine besondere Welt ein.</p>
+<p begin="00:01:29.078" end="00:01:30.895" style="s2">&quot;Wir befinden uns nicht mehr in Kansas.&quot;</p>
+<p begin="00:01:30.895" end="00:01:32.799" style="s2">4:00 Prüfungen</p>
+<p begin="00:01:32.799" end="00:01:34.048" style="s2">Held zu sein ist hart:</p>
+<p begin="00:01:34.048" end="00:01:35.355" style="s2">Unser Held löst Rätsel,</p>
+<p begin="00:01:35.355" end="00:01:36.598" style="s2">erschlägt Monster,</p>
+<p begin="00:01:36.598" end="00:01:38.433" style="s2">entkommt einer Falle.</p>
+<p begin="00:01:39.296" end="00:01:41.548" style="s2">5:00 Vorstoß</p>
+<p begin="00:01:41.548" end="00:01:43.848" style="s2">Zeit für den Helden <br />sich seiner größten Aufgabe</p>
+<p begin="00:01:43.848" end="00:01:45.871" style="s2">oder seiner größten Angst zu stellen.</p>
+<p begin="00:01:48.318" end="00:01:50.843" style="s2">6:00 Krise</p>
+<p begin="00:01:50.843" end="00:01:52.801" style="s2">Die schwerste Zeit für den Helden.</p>
+<p begin="00:01:52.801" end="00:01:55.674" style="s2">Er sieht dem Tod ins Auge,<br />stirbt vielleicht auch,</p>
+<p begin="00:01:55.674" end="00:01:57.456" style="s2">doch nur um wieder aufzuerstehen.</p>
+<p begin="00:01:58.764" end="00:02:00.980" style="s2">7:00 Schatz</p>
+<p begin="00:02:02.196" end="00:02:05.866" style="s2">Dadurch fordert er einen Schatz ein,</p>
+<p begin="00:02:05.866" end="00:02:08.251" style="s2">besondere Anerkennung oder Kraft.</p>
+<p begin="00:02:08.251" end="00:02:09.977" style="s2">8:00 Ergebnis</p>
+<p begin="00:02:09.977" end="00:02:12.221" style="s2">Dies kann je nach Geschichte <br />unterschiedlich sein.</p>
+<p begin="00:02:12.221" end="00:02:14.416" style="s2">Verneigen sich die Monster vor dem Helden</p>
+<p begin="00:02:14.416" end="00:02:18.347" style="s2">oder verfolgen sie ihn auf seiner Flucht <br />aus der besonderen Welt?</p>
+<p begin="00:02:18.347" end="00:02:20.663" style="s2">9:00 Rückkehr</p>
+<p begin="00:02:20.663" end="00:02:25.120" style="s2">Nach den Abenteuern kehrt der Held <br />in seine normale Welt zurück.</p>
+<p begin="00:02:25.120" end="00:02:27.169" style="s2">10:00 Neues Leben</p>
+<p begin="00:02:27.169" end="00:02:29.478" style="s2">Die Reise hat den Helden verändert.</p>
+<p begin="00:02:29.478" end="00:02:32.318" style="s2">Er ist seinem alten Leben entwachsen.</p>
+<p begin="00:02:32.318" end="00:02:34.620" style="s2">11:00 Auflösung</p>
+<p begin="00:02:34.620" end="00:02:38.284" style="s2">Alle verworrenen Teile der Handlung <br />klären sich.</p>
+<p begin="00:02:38.284" end="00:02:40.593" style="s2">12:00 Status Quo,</p>
+<p begin="00:02:40.593" end="00:02:42.780" style="s2">doch auf einem neuen,<br />höheren Niveau.</p>
+<p begin="00:02:42.780" end="00:02:45.784" style="s2">Nichts ist mehr das Gleiche,<br />wenn man erstmal ein Held ist.</p>
+<p begin="00:02:45.784" end="00:02:47.469" style="s2">Viele berühmte Bücher und Filme</p>
+<p begin="00:02:47.469" end="00:02:50.177" style="s2">folgen dieser uralten Formel.</p>
+<p begin="00:02:50.177" end="00:02:53.911" style="s2">Mal sehen, wie &quot;Die Tribute von Panem&quot; <br />zur Vorlage der Heldenreise passt.</p>
+<p begin="00:02:53.911" end="00:02:55.968" style="s2">Wann erhält Katniss Everdeen<br />ihren Aufruf zum Abenteuer,</p>
+<p begin="00:02:55.968" end="00:02:57.926" style="s2">der die Geschichte anschiebt?</p>
+<p begin="00:02:57.926" end="00:03:01.459" style="s2">Als der Name ihrer Schwester <br />ausgelost wird?</p>
+<p begin="00:03:01.459" end="00:03:03.098" style="s2">Was ist mit Hilfe?</p>
+<p begin="00:03:03.098" end="00:03:05.462" style="s2">Hilft ihr jemand bei ihrem Abenteuer?</p>
+<p begin="00:03:05.462" end="00:03:06.735" style="s2">Haymitch.</p>
+<p begin="00:03:06.735" end="00:03:08.307" style="s2">Was ist mit dem Aufbruch?</p>
+<p begin="00:03:08.307" end="00:03:10.428" style="s2">Verlässt sie ihre normale Welt?</p>
+<p begin="00:03:10.428" end="00:03:12.645" style="s2">Sie nimmt einen Zug ins Kapitol.</p>
+<p begin="00:03:12.645" end="00:03:14.094" style="s2">Du siehst schon, was ich meine.</p>
+<p begin="00:03:14.094" end="00:03:15.609" style="s2">Was hast du</p>
+<p begin="00:03:15.609" end="00:03:16.546" style="s2">mit Harry Potter,</p>
+<p begin="00:03:16.546" end="00:03:17.391" style="s2">Katniss Everdeen</p>
+<p begin="00:03:17.391" end="00:03:18.522" style="s2">und Frodo gemeinsam?</p>
+<p begin="00:03:18.522" end="00:03:21.981" style="s2">Du bist ein Mensch genau wie sie.</p>
+<p begin="00:03:21.981" end="00:03:24.897" style="s2">Mythen über die Heldenreise<br />gibt es in allen Kulturen</p>
+<p begin="00:03:24.897" end="00:03:26.606" style="s2">und sie werden ständig erneuert,</p>
+<p begin="00:03:26.606" end="00:03:28.891" style="s2">weil wir Menschen mit Hilfe <br />von symbolischen Geschichten,</p>
+<p begin="00:03:28.892" end="00:03:33.082" style="s2">über das Leben und die Welt nachdenken.</p>
+<p begin="00:03:33.082" end="00:03:35.079" style="s2">Man verlässt seine Komfortzone,</p>
+<p begin="00:03:35.079" end="00:03:37.558" style="s2">wird durch ein Erlebnis verändert,</p>
+<p begin="00:03:37.558" end="00:03:40.459" style="s2">erholt sich and macht es wieder.</p>
+<p begin="00:03:40.459" end="00:03:43.464" style="s2">Man erschlägt jedoch keinen Drachen<br />oder kämpft gegen Voldemort,</p>
+<p begin="00:03:43.464" end="00:03:46.026" style="s2">aber unsere Probleme<br />machen uns ebenso Angst.</p>
+<p begin="00:03:46.026" end="00:03:47.243" style="s2">Joseph Campbell sagte:</p>
+<p begin="00:03:47.243" end="00:03:52.143" style="s2">&quot;In der Höhle, die zu betreten dir Angst macht,<br />liegt der Schatz, den du suchst.&quot;</p>
+<p begin="00:03:52.143" end="00:03:55.111" style="s2">Was ist diese symbolische Höhle,<br />die zu betreten dir Angst macht?</p>
+<p begin="00:03:55.111" end="00:03:57.522" style="s2">Vorsprechen für eine Schulaufführung?</p>
+<p begin="00:03:57.522" end="00:03:59.266" style="s2">Baseball-Testspiele?</p>
+<p begin="00:03:59.266" end="00:04:00.813" style="s2">Liebe?</p>
+<p begin="00:04:00.813" end="00:04:04.664" style="s2">Achte auf diese Formel in Büchern, <br />Filmen und Fernsehserien.</p>
+<p begin="00:04:04.664" end="00:04:06.409" style="s2">Du wirst sie sicher wiedersehen.</p>
+<p begin="00:04:06.409" end="00:04:09.616" style="s2">Achte aber auch in deinem Leben darauf.</p>
+<p begin="00:04:09.616" end="00:04:12.083" style="s2">Höre den Aufruf zum Abenteuer.</p>
+<p begin="00:04:12.083" end="00:04:13.665" style="s2">Nimm die Herausforderung an.</p>
+<p begin="00:04:13.665" end="00:04:14.936" style="s2">Überwinde deine Angst</p>
+<p begin="00:04:14.936" end="00:04:17.293" style="s2">und fordere den Schatz ein,<br />nach dem du suchst.</p>
+<p begin="00:04:17.293" end="00:04:18.593" style="s2">Und dann</p>
+<p begin="00:04:18.593" end="00:04:20.439" style="s2">mache es wieder.</p>
+</div>
+</body>
+</tt>

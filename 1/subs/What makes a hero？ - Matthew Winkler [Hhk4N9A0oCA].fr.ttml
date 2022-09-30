@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="fr" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:07.000" style="s2">Traducteur: Ms Buffard&#39;s students<br />Relecteur: Elisabeth Buffard</p>
+<p begin="00:00:14.185" end="00:00:15.435" style="s2">Qu&#39;est-ce que Harry Potter,</p>
+<p begin="00:00:15.435" end="00:00:16.561" style="s2">Katniss Everdeen,</p>
+<p begin="00:00:16.561" end="00:00:17.578" style="s2">et Frodon</p>
+<p begin="00:00:17.578" end="00:00:21.621" style="s2">ont en commun avec les héros des mythes anciens ?</p>
+<p begin="00:00:21.621" end="00:00:25.609" style="s2">Et si je vous dis qu&#39;ils sont tous <br />des variantes du même héros ?</p>
+<p begin="00:00:25.609" end="00:00:27.401" style="s2">Vous le croirez ?</p>
+<p begin="00:00:27.401" end="00:00:28.982" style="s2">Joseph Cambpell , oui.</p>
+<p begin="00:00:28.982" end="00:00:31.044" style="s2">Il a étudié les mythes du monde entier</p>
+<p begin="00:00:31.044" end="00:00:32.537" style="s2">et il a publié un livre intitulé,</p>
+<p begin="00:00:32.537" end="00:00:34.658" style="s2">&quot;Le héros aux mille visages&quot;</p>
+<p begin="00:00:34.658" end="00:00:36.320" style="s2">qui reformule des dizaines d&#39;histoires</p>
+<p begin="00:00:36.320" end="00:00:39.079" style="s2">et explique comment chacune présente <br />le mythe unique,</p>
+<p begin="00:00:39.079" end="00:00:40.904" style="s2">ou le périple du héros.</p>
+<p begin="00:00:42.120" end="00:00:44.750" style="s2">Alors qu&#39;est-ce que &quot;le périple du héros&quot; ?</p>
+<p begin="00:00:44.750" end="00:00:46.850" style="s2">Imaginez-le comme un cycle.</p>
+<p begin="00:00:46.850" end="00:00:50.537" style="s2">Le voyage commence et se termine<br />dans le monde ordinaire d&#39;un héros,</p>
+<p begin="00:00:50.537" end="00:00:55.220" style="s2">mais la quête traverse <br />un monde particulier et inconnu.</p>
+<p begin="00:00:55.220" end="00:00:57.602" style="s2">Tout au long du chemin, il y a des évènements-clés.</p>
+<p begin="00:00:57.602" end="00:01:00.213" style="s2">Pensez à votre livre ou film préféré.</p>
+<p begin="00:01:00.213" end="00:01:02.725" style="s2">Est-ce qu&#39;il suit ce modèle ?</p>
+<p begin="00:01:03.464" end="00:01:05.950" style="s2">Le statu quo, c&#39;est ici que l&#39;on commence.</p>
+<p begin="00:01:06.751" end="00:01:09.555" style="s2">1:00 : L&#39;appel de l&#39;aventure.</p>
+<p begin="00:01:09.555" end="00:01:12.105" style="s2">Le héros reçoit un message mystérieux,</p>
+<p begin="00:01:12.105" end="00:01:13.187" style="s2">une invitation,</p>
+<p begin="00:01:13.187" end="00:01:14.572" style="s2">un défi.</p>
+<p begin="00:01:14.572" end="00:01:16.421" style="s2">2:00 : L&#39;aide</p>
+<p begin="00:01:16.421" end="00:01:17.840" style="s2">Le héros a besoin d&#39;aide,</p>
+<p begin="00:01:17.840" end="00:01:21.122" style="s2">probablement de la part de quelqu&#39;un <br />de plus vieux ou plus sage.</p>
+<p begin="00:01:21.122" end="00:01:22.706" style="s2">3:00 : Le départ</p>
+<p begin="00:01:22.706" end="00:01:26.087" style="s2">Le héros sort de sa vie normale, sûre,</p>
+<p begin="00:01:26.087" end="00:01:29.078" style="s2">et pénètre dans un monde et une aventure spéciaux.</p>
+<p begin="00:01:29.078" end="00:01:30.895" style="s2">On est en territoire inconnu.</p>
+<p begin="00:01:30.895" end="00:01:32.799" style="s2">4:00 : Les épreuves</p>
+<p begin="00:01:32.799" end="00:01:34.048" style="s2">Etre un héros est difficile :</p>
+<p begin="00:01:34.048" end="00:01:35.355" style="s2">notre héros résoud une énigme,</p>
+<p begin="00:01:35.355" end="00:01:36.598" style="s2">tue un monstre,</p>
+<p begin="00:01:36.598" end="00:01:38.433" style="s2">échappe à un piège.</p>
+<p begin="00:01:39.296" end="00:01:41.548" style="s2">5:00 : L&#39;approche</p>
+<p begin="00:01:41.548" end="00:01:43.848" style="s2">Il est temps d&#39;affronter la plus grande épreuve,</p>
+<p begin="00:01:43.848" end="00:01:45.871" style="s2">la pire des peurs du héros.</p>
+<p begin="00:01:48.318" end="00:01:50.843" style="s2">6:00 : Le moment critique</p>
+<p begin="00:01:50.843" end="00:01:52.801" style="s2">C&#39;est l&#39;heure la plus sombre du héros.</p>
+<p begin="00:01:52.801" end="00:01:55.674" style="s2">Il est face à la mort et peut même mourrir</p>
+<p begin="00:01:55.674" end="00:01:57.456" style="s2">pour mieux renaitre.</p>
+<p begin="00:01:58.764" end="00:02:00.980" style="s2">7:00 : Le trésor</p>
+<p begin="00:02:02.196" end="00:02:05.866" style="s2">Au final, le héros revendique un trésor quelconque,</p>
+<p begin="00:02:05.866" end="00:02:08.251" style="s2">une reconnaissance ou un pouvoir particluler.</p>
+<p begin="00:02:08.251" end="00:02:09.977" style="s2">8:00 : Le résultat</p>
+<p begin="00:02:09.977" end="00:02:12.221" style="s2">Il peut varier d&#39;une histoire à l&#39;autre.</p>
+<p begin="00:02:12.221" end="00:02:14.416" style="s2">Les monstres s&#39;inclinent-ils devant le héros,</p>
+<p begin="00:02:14.416" end="00:02:18.347" style="s2">ou le poursuivent-ils pendant qu&#39;il fuit ce monde particulier ?</p>
+<p begin="00:02:18.347" end="00:02:20.663" style="s2">9:00 : Le retour</p>
+<p begin="00:02:20.663" end="00:02:25.120" style="s2">Après toute cette aventure, le héros rentre <br />retrouver son monde ordinair.;</p>
+<p begin="00:02:25.120" end="00:02:27.169" style="s2">10:00 La nouvelle vie</p>
+<p begin="00:02:27.169" end="00:02:29.478" style="s2">Cette quête a changé le héros ;</p>
+<p begin="00:02:29.478" end="00:02:32.318" style="s2">il a dépassé son ancienne vie.</p>
+<p begin="00:02:32.318" end="00:02:34.620" style="s2">11:00 : La résolution</p>
+<p begin="00:02:34.620" end="00:02:38.284" style="s2">L&#39;intrigue se démêle.</p>
+<p begin="00:02:38.284" end="00:02:40.593" style="s2">12:00 : Le statu quo,</p>
+<p begin="00:02:40.593" end="00:02:42.780" style="s2">mais en passant au niveau supérieur.</p>
+<p begin="00:02:42.780" end="00:02:45.784" style="s2">Rien n&#39;est tout à faire pareil <br />une fois que vous êtes un héros.</p>
+<p begin="00:02:45.784" end="00:02:47.469" style="s2">De nombreux livres et films populaires</p>
+<p begin="00:02:47.469" end="00:02:50.177" style="s2">suivent scrupuleusement cette ancienne formule.</p>
+<p begin="00:02:50.177" end="00:02:53.911" style="s2">Mais voyons à quel point &quot;Hunger Games&quot; <br />correspond à ce modèle du périple du héros.</p>
+<p begin="00:02:53.911" end="00:02:55.968" style="s2">A quel moment Katniss Everdeen <br />entend-elle l&#39;appel de l&#39;aventure</p>
+<p begin="00:02:55.968" end="00:02:57.926" style="s2">qui lance l&#39;histoire ?</p>
+<p begin="00:02:57.926" end="00:03:01.459" style="s2">Quand on annonce le nom de sa soeur <br />tiré à la loterie,</p>
+<p begin="00:03:01.459" end="00:03:03.098" style="s2">Et l&#39;assistance ?</p>
+<p begin="00:03:03.098" end="00:03:05.462" style="s2">Quelqu&#39;un va-t-il l&#39;aider dans son aventure ?</p>
+<p begin="00:03:05.462" end="00:03:06.735" style="s2">Haymitch.</p>
+<p begin="00:03:06.735" end="00:03:08.307" style="s2">Et le départ ?</p>
+<p begin="00:03:08.307" end="00:03:10.428" style="s2">Est-ce qu&#39;elle quitte son monde ordinaire ?</p>
+<p begin="00:03:10.428" end="00:03:12.645" style="s2">Elle prend un train pour aller à la capitale.</p>
+<p begin="00:03:12.645" end="00:03:14.094" style="s2">Vous avez compris l&#39;idée.</p>
+<p begin="00:03:14.094" end="00:03:15.609" style="s2">Qu&#39;avez-vous en commun avec</p>
+<p begin="00:03:15.609" end="00:03:16.546" style="s2">Harry Potter,</p>
+<p begin="00:03:16.546" end="00:03:17.391" style="s2">Katniss Everdeen,</p>
+<p begin="00:03:17.391" end="00:03:18.522" style="s2">et Frodon ?</p>
+<p begin="00:03:18.522" end="00:03:21.981" style="s2">Eh bien, vous êtes humain, tout comme eux.</p>
+<p begin="00:03:21.981" end="00:03:24.897" style="s2">Le mythe du périple du héros existe <br />dans toutes les cultures</p>
+<p begin="00:03:24.897" end="00:03:26.606" style="s2">et continue d&#39;être actualisé</p>
+<p begin="00:03:26.606" end="00:03:28.891" style="s2">car nous, les humains, <br />nous réfléchissons à notre monde</p>
+<p begin="00:03:28.892" end="00:03:33.082" style="s2">à travers des histoires <br />qui symbolisent nos propres vies.</p>
+<p begin="00:03:33.082" end="00:03:35.079" style="s2">Vous quittez votre zone de confort,</p>
+<p begin="00:03:35.079" end="00:03:37.558" style="s2">vous vivez quelque chose qui vous transforme,</p>
+<p begin="00:03:37.558" end="00:03:40.459" style="s2">puis vous vous en remettez et vous recommencez.</p>
+<p begin="00:03:40.459" end="00:03:43.464" style="s2">Vous ne tuez pas littéralement des dragons,<br />vous ne vous battez pas avec Voldemort,</p>
+<p begin="00:03:43.464" end="00:03:46.026" style="s2">mais vous affrontez des problèmes <br />tout aussi effrayants.</p>
+<p begin="00:03:46.026" end="00:03:47.243" style="s2">Joseph Campbell a dit,</p>
+<p begin="00:03:47.243" end="00:03:52.143" style="s2">&quot;dans la grotte où vous craignez d&#39;entrer <br />se trouve le trésor que vous recherchez.&quot;</p>
+<p begin="00:03:52.143" end="00:03:55.111" style="s2">Quelle est la grotte symbolique <br />où vous craignez d&#39;entrer ,</p>
+<p begin="00:03:55.111" end="00:03:57.522" style="s2">Les auditions pour la pièce de théâtre de l&#39;école,</p>
+<p begin="00:03:57.522" end="00:03:59.266" style="s2">les sélections pour le baseball ?</p>
+<p begin="00:03:59.266" end="00:04:00.813" style="s2">L&#39;amour ?</p>
+<p begin="00:04:00.813" end="00:04:04.664" style="s2">Cherchez bien cette formule dans les livres, <br />les films, les séries télé que vous rencontrez.</p>
+<p begin="00:04:04.664" end="00:04:06.409" style="s2">Vous la retrouverez certainement.</p>
+<p begin="00:04:06.409" end="00:04:09.616" style="s2">Mais cherchez-la aussi dans votre propre vie.</p>
+<p begin="00:04:09.616" end="00:04:12.083" style="s2">Ecoutez votre appel de l&#39;aventure.</p>
+<p begin="00:04:12.083" end="00:04:13.665" style="s2">Acceptez le défi.</p>
+<p begin="00:04:13.665" end="00:04:14.936" style="s2">Surmontez votre peur</p>
+<p begin="00:04:14.936" end="00:04:17.293" style="s2">et réclamez le trésor que vous cherchez.</p>
+<p begin="00:04:17.293" end="00:04:18.593" style="s2">Et puis,</p>
+<p begin="00:04:18.593" end="00:04:20.439" style="s2">recommencez.</p>
+</div>
+</body>
+</tt>

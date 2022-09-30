@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="pl" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:07.000" style="s2">Tłumaczenie: Rysia Wand<br />Korekta: Dorota Porwisz</p>
+<p begin="00:00:14.185" end="00:00:15.435" style="s2">Co Harry Potter,</p>
+<p begin="00:00:15.435" end="00:00:16.561" style="s2">Katniss Everdeen,</p>
+<p begin="00:00:16.561" end="00:00:17.578" style="s2">i Frodo</p>
+<p begin="00:00:17.578" end="00:00:21.621" style="s2">mają wspólnego <br />z bohaterami starożytnych mitów?</p>
+<p begin="00:00:21.621" end="00:00:25.609" style="s2">Może są wariantami <br />tego samego bohatera?</p>
+<p begin="00:00:25.609" end="00:00:27.401" style="s2">Wierzycie w to?</p>
+<p begin="00:00:27.401" end="00:00:28.982" style="s2">Joseph Campbell wierzył.</p>
+<p begin="00:00:28.982" end="00:00:31.044" style="s2">Studiował mity z całego świata</p>
+<p begin="00:00:31.044" end="00:00:32.537" style="s2">i opublikował książkę pod tytułem</p>
+<p begin="00:00:32.537" end="00:00:34.658" style="s2">&quot;Bohater o tysiącu twarzach&quot;,</p>
+<p begin="00:00:34.658" end="00:00:36.320" style="s2">opowiadając dziesiątki historii</p>
+<p begin="00:00:36.320" end="00:00:39.079" style="s2">i tłumacząc, jak każda z nich <br />reprezentuje monomit,</p>
+<p begin="00:00:39.079" end="00:00:40.904" style="s2">czyli wędrówkę bohatera.</p>
+<p begin="00:00:42.120" end="00:00:44.750" style="s2">Co to jest &quot;wędrówka bohatera&quot;?</p>
+<p begin="00:00:44.750" end="00:00:46.850" style="s2">Wyobraźcie ją sobie jako cykl.</p>
+<p begin="00:00:46.850" end="00:00:50.537" style="s2">Wędrówka zaczyna się i kończy <br />w zwyczajnym świecie bohatera,</p>
+<p begin="00:00:50.537" end="00:00:55.220" style="s2">ale wyprawa prowadzi <br />przez nieznany, szczególny świat.</p>
+<p begin="00:00:55.220" end="00:00:57.602" style="s2">Po drodze mają miejsce <br />kluczowe wydarzenia.</p>
+<p begin="00:00:57.602" end="00:01:00.213" style="s2">Pomyślcie o ulubionej książce lub filmie.</p>
+<p begin="00:01:00.213" end="00:01:02.725" style="s2">Czy podlega temu schematowi?</p>
+<p begin="00:01:03.464" end="00:01:05.950" style="s2">Status quo, oto gdzie zaczniemy.</p>
+<p begin="00:01:06.751" end="00:01:09.555" style="s2">1:00: Wezwanie do przygody.</p>
+<p begin="00:01:09.555" end="00:01:12.105" style="s2">Bohater otrzymuje tajemniczą wiadomość.</p>
+<p begin="00:01:12.105" end="00:01:13.187" style="s2">Zaproszenie?</p>
+<p begin="00:01:13.187" end="00:01:14.572" style="s2">Wyzwanie?</p>
+<p begin="00:01:14.572" end="00:01:16.421" style="s2">2:00: Wsparcie..</p>
+<p begin="00:01:16.421" end="00:01:17.840" style="s2">Bohater potrzebuje pomocy,</p>
+<p begin="00:01:17.840" end="00:01:21.122" style="s2">może od kogoś <br />starszego, mądrzejszego.</p>
+<p begin="00:01:21.122" end="00:01:22.706" style="s2">3:00: Start.</p>
+<p begin="00:01:22.706" end="00:01:26.087" style="s2">Bohater zostawia normalny,<br />bezpieczny dom,</p>
+<p begin="00:01:26.087" end="00:01:29.078" style="s2">i wkracza do szczególnego <br />świata i przygody.</p>
+<p begin="00:01:29.078" end="00:01:30.895" style="s2">Nie jesteśmy już w Kansas.</p>
+<p begin="00:01:30.895" end="00:01:32.799" style="s2">4:00: Próby.</p>
+<p begin="00:01:32.799" end="00:01:34.048" style="s2">Bycie bohaterem jest ciężką pracą:</p>
+<p begin="00:01:34.048" end="00:01:35.355" style="s2">nasz bohater rozwiązuje zagadki,</p>
+<p begin="00:01:35.355" end="00:01:36.598" style="s2">zabija potwora,</p>
+<p begin="00:01:36.598" end="00:01:38.433" style="s2">wydostaje się z pułapki.</p>
+<p begin="00:01:39.296" end="00:01:41.548" style="s2">5:00 Podejście.</p>
+<p begin="00:01:41.548" end="00:01:43.848" style="s2">Najwyższy czas stawić czoło <br />najcięższej próbie,</p>
+<p begin="00:01:43.848" end="00:01:45.871" style="s2">najgorszym obawom bohatera.</p>
+<p begin="00:01:48.318" end="00:01:50.843" style="s2">6:00: Kryzys.</p>
+<p begin="00:01:50.843" end="00:01:52.801" style="s2">To najczarniejsza godzina bohatera.</p>
+<p begin="00:01:52.801" end="00:01:55.674" style="s2">Stawia czoła śmierci <br />i może nawet umiera</p>
+<p begin="00:01:55.674" end="00:01:57.456" style="s2">tylko po to, <br />by narodzić się na nowo.</p>
+<p begin="00:01:58.764" end="00:02:00.980" style="s2">7:00: Skarb.</p>
+<p begin="00:02:02.196" end="00:02:05.866" style="s2">W rezultacie bohater rości sobie <br />prawo do skarbu,</p>
+<p begin="00:02:05.866" end="00:02:08.251" style="s2">szczególnego uznania lub mocy.</p>
+<p begin="00:02:08.251" end="00:02:09.977" style="s2">8:00: Rezultat.</p>
+<p begin="00:02:09.977" end="00:02:12.221" style="s2">Ten może być różny w opowieściach.</p>
+<p begin="00:02:12.221" end="00:02:14.416" style="s2">Czy potwory uginają się <br />przed bohaterem,</p>
+<p begin="00:02:14.416" end="00:02:18.347" style="s2">czy ścigają go, kiedy ucieka <br />z tego szczególnego świata?</p>
+<p begin="00:02:18.347" end="00:02:20.663" style="s2">9:00: Powrót.</p>
+<p begin="00:02:20.663" end="00:02:25.120" style="s2">Po przygodzie bohater wraca <br />do zwykłego świata.</p>
+<p begin="00:02:25.120" end="00:02:27.169" style="s2">10:00: Nowe życie.</p>
+<p begin="00:02:27.169" end="00:02:29.478" style="s2">Wyprawa zmieniła bohatera;</p>
+<p begin="00:02:29.478" end="00:02:32.318" style="s2">przerasta on swoje stare życie.</p>
+<p begin="00:02:32.318" end="00:02:34.620" style="s2">11:00 Rozwiązanie.</p>
+<p begin="00:02:34.620" end="00:02:38.284" style="s2">Wszystkie poplątane wątki <br />rozwiązują się.</p>
+<p begin="00:02:38.284" end="00:02:40.593" style="s2">12:00: Status Quo,</p>
+<p begin="00:02:40.593" end="00:02:42.780" style="s2">ale podniesione do nowego poziomu.</p>
+<p begin="00:02:42.780" end="00:02:45.784" style="s2">Nic nie jest takie samo <br />dla bohatera.</p>
+<p begin="00:02:45.784" end="00:02:47.469" style="s2">Wiele popularnych książek i filmów</p>
+<p begin="00:02:47.469" end="00:02:50.177" style="s2">dość ściśle podlega <br />tej antycznej formule.</p>
+<p begin="00:02:50.177" end="00:02:53.911" style="s2">&quot;Igrzyska śmierci&quot; też pasują <br />do szablonu podróży bohatera.</p>
+<p begin="00:02:53.911" end="00:02:55.968" style="s2">Kiedy Katniss Everdeen <br />słyszy wezwanie do przygody,</p>
+<p begin="00:02:55.968" end="00:02:57.926" style="s2">które wprawia akcję w ruch?</p>
+<p begin="00:02:57.926" end="00:03:01.459" style="s2">Kiedy imię jej siostry <br />pada na loterii.</p>
+<p begin="00:03:01.459" end="00:03:03.098" style="s2">A co ze Wsparciem?</p>
+<p begin="00:03:03.098" end="00:03:05.462" style="s2">Czy ktoś zamierza <br />pomóc jej w przygodzie?</p>
+<p begin="00:03:05.462" end="00:03:06.735" style="s2">Haymitch.</p>
+<p begin="00:03:06.735" end="00:03:08.307" style="s2">A co z Odejściem?</p>
+<p begin="00:03:08.307" end="00:03:10.428" style="s2">Czy opuszcza swój zwykły świat?</p>
+<p begin="00:03:10.428" end="00:03:12.645" style="s2">Wsiada do pociągu do stolicy.</p>
+<p begin="00:03:12.645" end="00:03:14.094" style="s2">Wiecie, o co chodzi.</p>
+<p begin="00:03:14.094" end="00:03:15.609" style="s2">Co łączy was</p>
+<p begin="00:03:15.609" end="00:03:16.546" style="s2">z Harrym Potterem,</p>
+<p begin="00:03:16.546" end="00:03:17.391" style="s2">Katniss Everdeen,</p>
+<p begin="00:03:17.391" end="00:03:18.522" style="s2">i Frodo?</p>
+<p begin="00:03:18.522" end="00:03:21.981" style="s2">Jesteście ludźmi, tak jak oni.</p>
+<p begin="00:03:21.981" end="00:03:24.897" style="s2">Mit wędrówki bohatera <br />istnieje we wszystkich kulturach</p>
+<p begin="00:03:24.897" end="00:03:26.606" style="s2">i jest wciąż aktualny,</p>
+<p begin="00:03:26.606" end="00:03:28.891" style="s2">bo zastanawiamy się <br />nad naszym światem,</p>
+<p begin="00:03:28.892" end="00:03:33.082" style="s2">poprzez symboliczne historie <br />naszego własnego życia.</p>
+<p begin="00:03:33.082" end="00:03:35.079" style="s2">Opuszczasz sferę komfortu</p>
+<p begin="00:03:35.079" end="00:03:37.558" style="s2">doświadczasz przeżyć, <br />które cię odmieniają,</p>
+<p begin="00:03:37.558" end="00:03:40.459" style="s2">a następnie odzyskujesz siły <br />i robisz to znowu.</p>
+<p begin="00:03:40.459" end="00:03:43.464" style="s2">Nie zabijasz smoków <br />ani nie walczysz z Voldemortem,</p>
+<p begin="00:03:43.464" end="00:03:46.026" style="s2">ale stawiasz czoła <br />równie strasznym problemom.</p>
+<p begin="00:03:46.026" end="00:03:47.243" style="s2">Joseph Campbell powiedział:</p>
+<p begin="00:03:47.243" end="00:03:52.143" style="s2">&quot;W jaskini, do której boisz się wejść, <br />leży skarb, którego szukasz&quot;.</p>
+<p begin="00:03:52.143" end="00:03:55.111" style="s2">Czym jest ta symboliczna jaskinia, <br />do której boisz się wejść?</p>
+<p begin="00:03:55.111" end="00:03:57.522" style="s2">Przesłuchanie do roli <br />w szkolnym przedstawieniu?</p>
+<p begin="00:03:57.522" end="00:03:59.266" style="s2">Test sprawności w baseballu?</p>
+<p begin="00:03:59.266" end="00:04:00.813" style="s2">Miłość?</p>
+<p begin="00:04:00.813" end="00:04:04.664" style="s2">Szukajcie tego wzorca <br />w książkach, filmach i telewizji.</p>
+<p begin="00:04:04.664" end="00:04:06.409" style="s2">Na pewno znów go zobaczycie.</p>
+<p begin="00:04:06.409" end="00:04:09.616" style="s2">Bądźcie wrażliwi na to <br />we własnym życiu.</p>
+<p begin="00:04:09.616" end="00:04:12.083" style="s2">Posłuchajcie wezwania do przygody.</p>
+<p begin="00:04:12.083" end="00:04:13.665" style="s2">Zaakceptujcie to wyzwanie.</p>
+<p begin="00:04:13.665" end="00:04:14.936" style="s2">Pokonajcie strach</p>
+<p begin="00:04:14.936" end="00:04:17.293" style="s2">i odbierzcie pożądany skarb.</p>
+<p begin="00:04:17.293" end="00:04:18.593" style="s2">A potem</p>
+<p begin="00:04:18.593" end="00:04:20.439" style="s2">zróbcie to wszystko jeszcze raz.</p>
+</div>
+</body>
+</tt>
